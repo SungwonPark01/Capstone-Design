@@ -1,2 +1,2 @@
-# Generative-AI-Based-Preparedness-Simulation-for-Petrochemic-Plants-
-This project presents a digital fire preparedness simulation system that leverages generative AI and digital twin technology to automatically generate diverse fire scenarios in petrochemical plants and provide initial response training based on company-specific Standard Operating Procedures (SOPs). The system aims to overcome the limitations of conventional training methods that rely on predefined scenarios. By generating diverse fire situations from text prompts, it seeks to improve industrial safety training and reduce simulation content development costs.
+# Capstone-Design-
+생성형 AI 기반 석유화학 공장 화재 대비 시뮬레이션
