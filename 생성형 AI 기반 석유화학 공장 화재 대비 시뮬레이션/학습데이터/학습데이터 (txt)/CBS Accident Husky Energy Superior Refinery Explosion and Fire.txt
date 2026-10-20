@@ -1,0 +1,144 @@
+Brittle Fracture of Two Pressure Vessels at Husky Refinery in Superior Wisconsin – Observations and Conclusions
+ Ted Anderson
+ November 10, 2020
+
+
+1. Background
+ - During a shutdown at a Husky refinery in Superior, Wisconsin, an inadvertent  introduction of air into hydrocarbon vapor resulted in an explosion, which caused two pressure vessels to fragment.  One of the fragments punctured a nearby storage tank, which precipitated a major release of asphalt and a resulting fire.
+ - Baker Engineering and Risk Consultants Inc. (Baker) performed a metallurgical examination of the vessel fragments and conducted a series of tests.  The two Baker reports did not draw any conclusions about the nature or cause of the incident.
+ - The US Chemical Safety Board (CSB) has asked TL Anderson Consulting to review the Baker reports and offer conclusions and observations on the following matters:
+ - Conditions that may have allowed the vessels to fragment, which resulted in a piece puncturing a nearby storage tank.
+ - The metallurgical properties that Baker measured relative to industry standards.
+ - The appropriateness of A201 and A212 grades of steel for the application.
+ - Other conclusions that can be drawn from the available information.
+
+
+2. Material Properties and the Appropriateness of Grades A201 and A212
+
+2.1 Overview
+Two vessels fragmented during the incident.
+ - Vertical primary absorber (Vessel V8). Material of construction: A212 Grade B
+ - Vertical sponge absorber (Vessel V9). Material of construction: A201 Grade A
+
+Baker performed various tests on several vessel fragments.
+ - Chemical composition.
+ - Tensile properties.
+ - Charpy impact properties.
+
+Results of Baker tests: 
+ - The chemical composition of the fragments meets the corresponding requirements of A201 and A212. The sulfur levels are high by modern standards.
+ - The tensile properties exceed the minimum requirements of A201 and A212.
+ - There are no Charpy requirements in the A201 and A212 specifications. However, other industry standards can be invoked to infer the expected properties
+
+2.2 Expected versus Actual Charpy Properties
+ - Section VIII of the ASME Boiler and Pressure Vessel Code did not set toughness requirements prior to the mid to late 1980s, approximately 25 years after Vessels V8 and V9 were fabricated.
+ - For vessels on which Charpy testing was not performed at the time of construction, Section VIII developed exemption curves with steels grouped into four categories: A, B, C, and D, with A having the worst properties (i.e. highest transition temperature.) • A201 and A212 are Curve A materials.
+ - The upcoming release of the joint API/ASME Fitness-for-Service (FFS) Standard API 579-1/ASME FFS-1, 2021 (aka “API 579”) contains a procedure to estimate the 27J Charpy transition temperature for Curve A to D materials.
+ - Curve A conservative estimate of 20 ft-lb transition temperature per API 579: 35 degrees Celsius
+ - Baker test results for A212 steel from V8 fragments: 21 degrees Celsius
+ - Baker test results for A201 steel from V9 fragments: 2 degrees Celsius
+ - Therefore, the materials of construction in Vessels V8 and V9 have Charpy properties that meet expectations for Curve A materials.
+
+2.3 Pressure Vessel Steel Specifications – Then and Now
+ - Steel plates manufactured in accordance with the A201 and A212 steel specifications were typically made with coarse grain practice, which results in a Charpy energy and % shear transition near ambient temperature.
+ - ASTM withdrew the A201 and A212 specifications in 1967.
+	The modern equivalents are as follows:
+ 		- A515 – Made with coarse grain practice.  Suitable for intermediate to high temperatures because coarse grains provide better creep resistance.
+		- A516 – Made with fine grain practice, and may be normalized. Suitable for low and intermediate temperatures because fine grains provide better low-temperature toughness.
+ - If Vessels V8 and V9 were fabricated today, the material of construction would likely be A516, which is a Curve D material if it is normalized.
+
+2.4 ASME Section VIII Impact Exemption Curves. Do the Materials of Construction in V8 and V9 Meet Current ASME Toughness Requirements?
+ASME 섹션 VIII의 충격 면제 곡선에서 각 곡선은 특정 재료의 충격 요구 사항을 만족하는 최소 허용 온도를 보여준다. 두께가 증가할수록 허용 온도가 높아지는 경향이 있다. V8 및 V9의 구조 재료가 현재 ASME의 충격 요구 사항을 충족하고 있다.
+
+2.5 Did V8 and V9 Meet Current ASME Toughness Requirements?
+ - In the absence of Charpy impact data, which was not available prior to the incident, the minimum design metal temperature (MDMT) for a Curve A material with thickness = 7/16” (0.4375”, 11.1125mm) is approximately -1 degree Celsiu.
+ - This means that the vessels can be operated at their full MAWP at metal temperatures above -1 degree Celsiu.
+ - In the event of a cold startup (e.g. starting up on a January morning in Wisconsin), Husky could apply ASME Section VIII or API 579 procedures to determine a safe pressure temperature envelop below -1 degree Celsius.
+ - Therefore, the materials of construction in V8 and V9 meet current minimum industry standards for toughness.
+ - However, industry standards pertain to conditions expected operating, and do not guard against failure from extreme events like the rapid ignition of hydrocarbons that are exposure to air.
+
+
+3. Brittle versus Ductile Fracture: Fragmentation versus “Fish Mouth” Rupture.
+
+3.1 Fracture Mechanics Theory (with Math Omitted):
+ Crack Propagation Occurs when Driving Force Exceeds Material Resistance
+ - The driving force can be viewed as the energy available to propagate a crack.
+ - The material resistance (i.e. fracture toughness) corresponds to the energy required to propagate a crack.
+ - Unstable crack propagation occurs when driving force exceeds resistance.
+
+3.2 Microscopic Fracture Mechanisms in Carbon Steel
+ - Microstructure:
+	 - Microvoids: Tiny cavities that form within the material, associated with ductile fracture processes at high temperatures.
+	 - Inclusions: Particles or impurities within the steel that can affect the fracture mechanisms.
+
+Fracture Mechanisms:
+ 	- Ductile Tearing: Occurs at high temperatures, where microvoids coalesce, leading to a ductile tear in the material. This process involves the formation of microvoids that merge into larger voids, eventually resulting in fracture.
+ 	- Cleavage Fracture: A type of fracture that occurs at low temperatures, characterized by the breaking of the crystal structure. This type of fracture happens when the material becomes brittle.
+
+3.3 Fracture Toughness versus Temperature
+The relationship between fracture toughness and temperature is described.
+
+Axis Description:
+ - Vertical Axis (Fracture Toughness): Represents fracture toughness, which indicates a material's ability to resist fracture.
+ - Horizontal Axis (Temperature): Represents temperature, showing how material properties change with temperature.
+
+Graph Curve:
+ - The graph shows how fracture toughness varies with increasing temperature. Initially, fracture toughness is low, but it increases sharply at a certain temperature.
+ - Cleavage: Represents brittle fracture occurring at low temperatures, where fracture toughness is low.
+ - Ductile Tearing: As temperature increases, both cleavage and ductile tearing can occur together, leading to an increase in fracture toughness.
+ - Plastic Collapse or Ductile Instability: This phenomenon may occur at specific temperatures when the material transitions to ductile behavior.
+
+Key Points:
+ - At low temperatures, cleavage leads to brittleness, while as temperature rises, the material transitions to ductility, resulting in increased fracture toughness. This information is crucial for understanding material safety.
+
+3.4 Mechanism for Fragmentation with Unstable Cleavage Fracture
+ -  When the energy available for crack propagation (driving force) exceeds the energy dissipated by the material (toughness/resistance), the excess energy is converted to kinetic energy, resulting in an increase in crack speed.
+ - When the crack speed approaches its limiting value (~1000 m/s) and there is still excess energy, the crack splits into branches in order to dissipate more energy.
+ - A large number of branching events results in fragmentation.
+ - The propensity for branching and fragmentation decreases with increasing fracture toughness.
+ - Branching typically does not occur with ductile tearing because the material is capable of dissipating much more energy than with cleavage.
+
+3.5 Baker Fracture Map – Upper End of V8
+ - Multiple initiation sites were observed.
+ - No evidence of pre-existing cracks at initiation sites.
+ - Fracture tended to initiate at welded attachments and seam welds, where local restraint would have induced triaxial stresses, which promote cleavage.
+
+3.6 Ductile “Fish-Mouth” Rupture from Over Pressurization of a Cylindrical Shell
+
+3.7 Model to Compare Energy Dissipated in Ductile versus Brittle Fracture 
+ - Ductile rupture.
+	 - Consider plastic radial expansion in the V8 shell.
+	 - Neglect the effect of tray supports and other welded attachments, which would result in additional energy dissipation during the event.
+	 - Neglect energy dissipation effects from the heads.
+ - Brittle fracture.
+	 - Assume cleavage initiates when the shell experiences 1% plastic strain, as defined by radial expansion.  Use the above analysis to estimate the energy dissipated.
+	 - Estimate the additional energy dissipation from crack propagation.
+ - Note that the resulting energy estimates are for relative comparison only.  The model is an over-simplification of the actual event.
+
+3.8 Ductile Rupture Model : Radial Expansion of the V8 Shell
+ - The shell plastically expands radially with pressure.  The wall thickness decreases to maintain constant material volume.
+ - Under static conditions, the pressure decreases after reaching a maximum, much like engineering stress decreases past the ultimate tensile strength in a tensile test. Under dynamic conditions, a ductile instability will result.
+ - Localized necking occurs past the peak (static) pressure, leading to ductile failure.
+
+3.9 Estimated Energy Absorption for Brittle Fracture
+ - Energy required for 1% plastic radial expansion of V8: 
+	 -  4009212 J
+ - Total length and area of fracture in V8, estimated from the Baker fracture map:
+	 - Crack Length = 167.64 m
+	 - Crack Area = 1.864 square meter
+ - Estimated energy dissipated by crack propagation, based on area estimate + measured toughness properties:
+	 - 137157 J
+ - Total energy estimate:
+	 - 4146370 J
+ - Corresponding estimate for ductile rupture:
+	 - >1.05506e+8 J
+
+3.10 Conclusions
+ - The materials of construction in Vessels V8 and V9 were a major causal factor in the asphalt release and subsequent fire.
+	 - A large amount of energy was generated from the ignition of hydrocarbon vapor in the system.
+	 - The energy dissipation capacity during brittle crack propagation was very limited compared to the available energy.  This resulted in numerous crack branching events, which fragmented the V8 and V9 shells.
+	 - Kinetic energy from the explosion propelled the shell fragments outward.  One of the projectiles punctured Tank 101.
+ - Had the material of construction been a modern pressure vessel steel such as normalized A516, the asphalt release almost certainly would not have occurred.
+	 - Normalized A516 steel is fully ductile at ambient temperature, so significant crack branching and fragmentation would not have occurred.
+	 - Vessels V8 and V9 probably would not have contained the explosion if they were made from normalized A516 steel, but a fish-mouth rupture event would likely have occurred instead of brittle fragmentation.
+ - The materials of construction in V8 and V9 meet current industry standards for toughness, given the operating parameters, but these standards do not consider extreme events

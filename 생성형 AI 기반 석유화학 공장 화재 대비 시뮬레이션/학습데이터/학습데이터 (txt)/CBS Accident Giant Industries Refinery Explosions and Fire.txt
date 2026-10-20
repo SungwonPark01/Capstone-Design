@@ -1,0 +1,158 @@
+﻿Oil Refinery Fire and Explosion
+
+NO. 2004-08-I-NM
+October 2005
+
+Fortunately, no significant
+amount of HF was released in this incident.
+
+Introduction
+This case study describes the sudden release of flammable liquid and subsequent fire and explosion that occurred on April 8,
+ 2004 at the Giant Industries’ Ciniza oil refinery, Jamestown, NM.  The incident injured six employees and caused evacuation of nonessential employees as well as customers of a nearby travel center and truck stop. Refinery equipment and support structures were damaged.  Production at the unit was not resumed until the fourth quarter of 2004, and damage to the unit was in excess of $13 million.
+
+ Because of the serious nature of the incident—injuries to employees and extensive damages to facilities—the U.S. Chemical Safety and Hazard Investigation Board (CSB) produced this Case Study to share lessons learned so that similar occurrences might be prevented
+
+3.0
+Process Description
+his incident occurred at the refinery’s hydrofluoric acid (HF) alkylation unit. HF, a highly
+hazardous, toxic, and corrosive chemical, is used as a catalyst in the alkylation process. Fortunately, no significant amount of HF was released in this incident.
+In HF alkylation, olefin and isobutane feedstocks are combined, then mixed with HF in a reactor vessel, where the alkylate(Alkylate is a highly flammable gasoline blending component used to boost the octane of gasoline. It forms explosive vapor/air mixtures at aboveambient temperatures.) forms. (American Petroleum Institute 1999)
+
+4.0
+PreIncident Events
+he day before the incident, alkylation unit operators attempted a regularly scheduled switch of the alkylate recirculation pumps in the Iso-Stripper unit. The primary electric pump would be taken out of service and the spare steam-driven pump started up. The switch was scheduled because of recurring problems with the spare pump’s mechanical seal(Mechanical seals are used to keep the contents of rotating equipment such as pumps and compressors from escaping. They do this by sealing the shaft that protrudes from the casing.) leaking. This was done to free the spare pump’s mechanical seal of any material that might cause it to function improperly. While attempting to put the spare pump in service, operators found it would not rotate.
+
+Interviews with several operators revealed that some operators used the valve wrench’s position
+
+
+5.0
+Incident Description
+he next morning, the maintenance supervisor assigned a mechanic specialist and a mechanic to repair the seal on the spare pump. An operator prepared a work permit that outlined the work to be done and the safeguards required for a safe repair. The valve used to isolate the pump for maintenance was a 1/4 turn plug valve. A plug valve is used primarily for on/ off, and some throttling services. It controls flow by means of a cylindrical or tapered plug with a hole in the center that lines up with the flow path of the valve to permit flow. The valve is opened or closed with the use of a valve wrench. A quarter turn of the valve blocks the flow path.
+
+In preparing the pump for maintenance, the operator relied on the valve wrench to determine that the suction valve was open. He moved the wrench to what he believed was the closed position with the wrench perpendicular to the flow of product. Interviews with several operators revealed that some operators used the valve wrench’s position relative to the flow to determine whether the valve was open or closed, while others referred to the position indicator on the valve stem. The valve was actually open.
+
+The pump needed to be disassembled and the rear pump housing assembly and impeller moved to the shop for repair. Before leaving the area to obtain materials needed to remove the pump, the mechanic noticed that the valve position indicator on the suction valve body showed that the valve was open. He did not relate this information to his co-workers.
+
+
+The work permit is issued by the operator and contains information on hazards involved in the maintenance operation, the appropriate personal protective equipment to be worn, and lock-out-tag-out (LOTO) information. Lockout/tagout refers to a program to control hazardous energy during the servicing and maintenance of machinery and equipment. Lockout refers to the placement of a locking mechanism on an energy-isolating device, such as a valve, so that the equipment cannot be operated until the mechanism is removed. Tagout refers to the secure placement of a tag on an energy-isolating device to indicate that the equipment cannot be operated until the tag is removed.
+
+The plant operator placed tags and locks on the suction and discharge valves to prevent inadvertent opening and to indicate that the valves had been closed. The mechanic specialist then placed tags and locks on the suction and discharge valves. When the mechanic returned, the mechanic specialist told him that the valves had been closed, secured, tagged, and locked per the facility’s LOTO procedure and that they could remove the pump.
+Neither mechanic observed the operator closing the valve. Both mechanics believed the task had been completed because the wrench used to open and close the valve was positioned perpendicular to the flow, and the operator had affixed his tags.
+
+The operator then disconnected the pump’s vent hose to verify that no pressure was in the pump case.
+The low point drain plug was not used because it was not equipped with a valve to isolate it from the line used for depressuring the pump. Giant lockout/ tagout procedures outlining operator responsibilities state:
+On mechanical, pneumatic, steam and hydraulic equipment such as steam turbines, air pumps etc. this will include locking out of the energy isolating devices (i.e. valves) and verifying total release of any stored or residual energy by opening bleeders and verifying complete depressurization.
+
+
+After uncoupling the hose at the connection to the flare line, a stream of alkylate flowed from the pump housing through the hose and subsided after a few seconds. The operator and the maintenance mechanics believed the pump had been de-pressured and was ready for removal. Actually, the vent line was plugged, and the pump was not depressured.
+
+The pump shaft coupling and the flange connecting the pump to the pump case were unbolted. As the pump case flange was separated, alkylate was suddenly released at about 150 pounds per square inch gauge (psig) and 350 degrees Fahrenheit. The release produced a loud roaring sound that could be heard throughout the refinery.
+
+The mechanic was blown over an adjacent pump and suffered broken ribs. Material was blown into the mechanic specialist’s eyes so he made his way to an eyewash station, cleared his eyes, and then quickly exited the unit. Alkylate, which covered the plant operator’s clothing, quickly ignited, seriously burning the operator in the ensuing fire.
+
+About 30 to 45 seconds after the initial release, the first of several explosions occurred.
+The refinery’s safety officer was about 150 yards away when the release occurred. In an attempt to turn on a fire monitor to suppress escaping vapors, the officer advanced towards the release. He was caught in the fire and injured. Two other workers suffered slight injuries escaping the area.
+
+6.0
+Analysis of Incident
+6.1
+Mechanical Integrity
+A review of repair work prior to the incident revealed a history of repeated pump failures. The primary, electric, and steam-driven spare isostripper recirculation pumps had 23 work orders submitted for repair of seal-related problems or pump seizures in the oneyear period prior to the incident.
+Giant’s mechanical integrity program did not effectively prevent these repeated failures of the pump seals. After the incident occurred, plugging material was found in the pump discharge line, the depressur izing line, pump housing, and the impeller. Giant’s approach to these frequent pump seal problems was an example of breakdown maintenance. In other words, pump failures were addressed when the equipment finally broke down, instead of identifying causes of breakdowns and preventing them before they occurred again.
+The Center for Chemical Process Safety (CCPS) recommends that maintenance programs troubleshoot and search for possible hidden or multiple reasons for frequently occurring problems. (CCPS, Guidelines for Safe Process Operations and Maintenance 1995). An effective mechanical integrity program would have investigated and resolved the problems that were repeatedly causing the recirculation pump seals to fail.
+The primary, electric, and steam-driven spare isostripper recirculation pumps had 23 work orders submitted for repair of seal-related problems or pumpseizures.
+
+DATEPUMPPROBLEM
+Seal-Related Repair Work for Isostripper Recycle Pumps
+1. April 17, 2003P-5A (Elec.)Seal leak
+2. May 9, 2003P-5B (Stm.)Pump spraying from seal
+3. May 23, 2003P-5A (Elec.)Repair seal
+4. June 9, 2003P-5B (Stm.)Repair seal
+5. June 9, 2003P-5A (Elec.)Repair seal
+6. June 18, 2003P-5A (Elec.)Repair seal
+7. June 20, 2003P-5A (Elec.)Replaced seal
+8. July 31, 2003P-5A (Elec.)Replaced seal
+9. August 22, 2003P-5B (Stm.)Seal leak
+10. August 25, 2003P-5B (Stm.)Replaced seal
+11. September 26, 2003P-5B (Stm.)Replaced seal
+12. September 26, 2003P-5A (Elec.)Replaced seal
+13. October 14, 2003P-5A (Elec.)Seal leak
+14. December 6, 2003P-5A (Elec.)Replaced seal
+15. December 9, 2003P-5B (Stm.)Seal leak
+16. December 9, 2003P-5A (Elec.)Seal leak
+17. December 15, 2003P-5B (Stm.)Replaced seal
+18. December 15 2003P-5A (Elec.)Seal leak
+19. January 28, 2004P-5A (Elec.)Seal leak
+20 March 22, 2004P-5A (Elec.)Seal leak
+1. April 1, 2004P-5A (Elec.)Pump seal leaking
+2. April 3, 2004P-5A (Elec.)Pump seal leaking
+3. April 7, 2004P-5A (Elec.)Repair pump seal
+
+
+6.2
+Corrosion and Scale Formation
+At Giant, the isostripper pumps frequently had plugging problems.
+A number of factors contribute to the formation of corrosion, scale, and deposits, which in turn can lead to the fouling or scoring of pump seals. The failure of the seals is not typically caused by corrosion of the seal faces, but by the scoring/erosion (galling) of the seal faces from a solid fouling material. Carbon seal faces such as those used for the pump involved in this incident, are prone to contaminant scoring.
+Some corrosion and scale products occur because of operating temperatures and pressures at which an HF alkylation unit is run. Many HF alkylation units operate at 125 psig or lower. The isostripper column at the Giant refinery is normally operated at about 150 psig. Operation at higher pressures requires much higher temperatures, which can result in accelerated corrosion of equipment.
+Plugging and fouling material can also occur as soft iron fluoride scale develops and forms in the tower overhead and domes when preparing to shut down the unit for cleanup activities. Some of this soft, water-laden scale comes off when the unit is running. The rest creates a site for extremely fast and extensive corrosion, resulting in a large amount of scale being added into the process. Scale may accumulate and settle at low points and orifices in equipment such as spare pumps.
+Giant management did not investigate why excessive iron fluoride generation in the process caused the mechanical seals on the alkylate recirculation pumps to fail repeatedly.
+
+6.3
+Valve Design
+Examination of the 6-inch, ¼ turn, plug valve after the incident determined that it was originally designed to be opened and closed by a gear-operated actuator. The geardriver had been removed and was replaced by a valve wrench. The wrench was a two-foot-long bar inserted into a collar. Because it had a square shape, the collar could be easily removed and repositioned on the valve stem in different directions.
+Giant did not consider the design or engineering safety implications of changing from a gear-operated valve actuator to using a wrench as a valve handle.
+
+Interviews with operators revealed they would sometimes determine whether the valve was open or closed by the valve wrench position. If the wrench was perpendicular to flow through the valve, it was considered closed. If the wrench was aligned parallel to the flow, the valve was thought to be open.
+
+In some instances, set screws would be loosened, and the wrench would be removed and placed on the pump base to provide better clearance for personnel walking nearby. When the valve was to be opened or closed, the wrench would be replaced on the valve stem. In the Ciniza oil refinery incident, the valve wrench collar was installed in the wrong position.
+
+Plug Valve in the Open Position is the plug valve in the open position with the wrench in the perpendicular or perceived “closed” position.
+
+Both the plant operator who attached the locks and the mechanics who removed the pump mistakenly believed the suction valve had been closed, in part because the valve wrench was perpendicular to the normal pipe flow. After he returned from obtaining materials needed for pump removal, the mechanic who earlier observed the position indicator in the open position began working on the opposite side of the pump, so he did not realize the valve position indicator still indicated the valve was open. From his vantage point, he observed the valve wrench in a perpendicular orientation and believed the valve was closed.
+
+Technically, the wrench was not intended to indicate valve position because the valve was equipped with the position indicator, which was located on the valve stem. In practice, however, some plant employees used the wrench to determine valve position, partly because the wrench was much more visible than the actual valve position indicator.
+
+6.4
+Human Factors Consideration
+Donald A. Norman (The Design of Everyday Things) states that design of a system’s controls, as seen by the operator, must accurately reflect the actual state of the system, and that movement of the controls must operate the system in the manner the operator would naturally expect from the visual cues.
+
+He says that:
+Natural mappings are the basis of what has been called “response compatibility” within the field of human factors and ergonomics. The major requirement of response compatibility is that the spatial relationship between the positioning of controls and the system or objects upon which they operate should be as direct as possible, with the controls either on the objects themselves or arranged to have an analogical relationship to them. In similar fashion, the movement of the controls should be similar or analogous to the expected operation of the system. Difficulties arise wherever the positioning and movements of the controls deviate from strict proximity, mimicry or analogy to the things being controlled.
+
+◆ Giant’s use of the wrench instead of the original valve actuator was a significant equipment change and should have been included in the company’s MOC program.
+
+6.5
+Management of Change
+OSHA’s Process Safety Management standard (1910.119) states that any change that may affect a process covered by that standard should trigger a management of change (MOC) analysis. The only exception to this is when the change is a “replacement in kind.”
+In some instances, the smallest of changes can lead to a significantly unexpected outcome. In Still Going Wrong, safety expert, Trevor Kletz cites an example in which the central bolt on a threeway valve was marked by operators to indicate the position of the valve. This was reportedly done because the original markings on the valve itself were hard to see. The marks corresponded to the valve position.
+Two washers were placed under the bolt in subsequent maintenance, and the valve could no longer be screwed all the way in to close it.
+The marks on the central bolt no longer corresponded with the actual valve position. However, operators set the valve according to marks on the bolt, resulting in a misdirection of flow and a subsequent explosion.
+Giant’s use of the wrench instead of the original valve actuator was a significant equipment change and should have been included in the company’s MOC program.
+
+6.6
+Lockout/Tagout and Isolation
+While the Giant mechanics and operator locked and tagged the pump involved in this incident, they mistakenly believed the pump had been isolated and depressured.
+They had not adequately verified that the pump was isolated or drained before locking and tagging it out. Effective LOTO procedures include specific requirements for testing machines to determine and verify the effectiveness of lockout devices, tagout devices, and other energycontrol measures. (OSHA, 2002)
+
+“Replacement in Kind” means replacement that satisfies the design specification
+
+7.0
+Lessons Learned
+7.1
+Valve Modification
+Any valve position indication used by employees to determine the open/closed position of valves should communicate accurate information to employees. Valve modification should receive MOC analysis to determine whether new hazards or risks have been introduced.
+Although the valve had a position indicator, employee practice was to sometimes use the position of the valve wrench to determine the open/ closed status of the valve. The valve collar and wrench were not permanently fixed to the stem and were positioned incorrectly. When the valve was changed from a wheel and geardriven mechanism to a wrench, the collar could be attached in the wrong position. An MOC hazard analysis was not conducted. If an MOC had been used, it could have revealed the potential for the valve wrench to be oriented in the wrong direction.
+
+7.2
+Lockout/Tagout
+Lockout/tagout programs should require effective verification that equipment has been isolated, depressurized and drained.
+Although Giant employees believed the pump was isolated before it was locked out, the facility lacked procedures to verify that the pump had been isolated, depressurized and drained. Equipment being prepared for maintenance should be drained of all liquid at a low point drain.
+
+7.3
+Mechanical Integrity
+Mechanical integrity programs should prevent breakdown maintenance. Identifying operating conditions that could be contributing to equipment failure is a critical component of mechanical integrity.
+Instead of determining the cause of frequent pump malfunctions and then implementing a program that would prevent problems before they occurred, Giant used breakdown maintenance by making repeated repairs to the pump seals after failure.
+
+The valve collar and wrench were not permanently fixed to the stem and were positioned incorrectly.
+
+Instead of determining the cause of frequent pump malfunctions and then implementing a program that would prevent problems before they occurred, Giant used breakdown maintenance.

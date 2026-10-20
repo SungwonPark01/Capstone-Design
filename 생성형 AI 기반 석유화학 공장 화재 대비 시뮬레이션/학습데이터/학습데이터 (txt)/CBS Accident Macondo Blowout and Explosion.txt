@@ -1,0 +1,276 @@
+ U. S. Chemical  Safety  and  Hazard  Investigation  Board 
+INVESTIGATION REPORT EXECUTIVE SUMMARY
+Drilling Rig Explosion and Fire at the Macondo Well
+(11 Fatalities, 17 Injured, and Serious Environmental Damage)
+
+Deepwater Horizon Rig
+Mississippi canyon 252, gulf of Mexico
+APRIL 20, 2010
+
+
+Incident Review
+ On April 20, 2010, a multiple-fatality incident occurred at the Macondo oil well approximately 50 miles off the coast of Louisiana in the Gulf of Mexico during temporary well-abandonment activities on the Deepwater Horizon (DWH) drilling rig. Control of the well was lost, resulting in a blowout—the uncontrolled release of oil and gas (hydrocarbons) from the well. On the rig, the hydrocarbons found an ignition source and ignited. The resulting explosions and fire led to the deaths of 11 individuals, serious physical injuries to 17 others, the evacuation of 115 individuals from the rig, the sinking of the Deepwater Horizon, and massive marine and coastal damage from a reported 4 million barrels of released hydrocarbons.
+ BP was the main operator/lease holder responsible for the well design, and Transocean was the drilling contractor that owned and operated the DWH. On the day of the incident, the crew was completing temporary abandonment of the well so that it could be left in a safe condition until a production facility could return later to extract oil and gas from it.
+ Abandonment activities would essentially plug the well. Earlier, a critical cement barrier intended to keep the hydrocarbons below the seafloor had not been effectively installed at the bottom of the well. BP and Transocean personnel misinterpreted a test(A negative pressure test simulates the conditions that will be present in the well once it is abandoned. It is completed by displacing some of the drilling mud from the well and closing the BOP to isolate the bottom of the well from the pressure exerted by the fluids above the BOP.) to assess cement barrier integrity, leading them to erroneously believe that the hydrocarbon bearing zone at the bottom of the well had been sealed. When the crew removed drilling mud from the well in preparation to install an additional cement barrier, the open blowout preventer (BOP) was the only physical barrier that could have potentially prevented hydrocarbons from reaching the rig and surrounding environment. The ability of the BOP to act as this barrier was contingent primarily upon human detection of the kick and timely activation and closure of the BOP.
+
+ Removing drilling mud after the test allowed hydrocarbons to flow past the failed cement barrier toward the DWH. The hydrocarbons continued to flow from the reservoir for almost an hour without human detection or the activation of the automated controls to close the BOP. Eventually, oil and gas passed above the BOP and forcefully released onto the rig. In response, the well operations crew manually closed the BOP. Oil and gas that had already flowed past the BOP continued to gush onto the rig, igniting and exploding. The explosion likely activated an automatic emergency response system  designed to shear drillpipe passing through the BOP and seal the well, but it was unsuccessful.
+
+The Macondo blowout has illuminated the potential severity of consequences from a single offshore incident and has served as a catalyst for examining major accident risk management in the offshore drilling industry.
+
+
+
+New Lessons 
+ The Macondo blowout was the subject of multiple official investigations and perspectives, including those by the National Commission, National Academy of Engineering, Department of Interior, Joint Investigation Team (US Coast Guard and Bureau of the Ocean Energy Management), Deepwater Horizon Study Group, BP, and Transocean. But the potential legal implications from the severity of the Macondo blowout limited the flow of information from BP and Transocean, both to the public and the entities investigating the incident. This became apparent as new documents and depositions controlled by the US District Court for the Eastern District of Louisiana were released under the Multi-District Litigation (MDL) docket and when Transocean complied with the CSB’s own subpoena requests years after they were originally submitted to the company. Consequently, previous investigation reports represent insight limited by the information available at the time.
+ For example, the major investigation reports, except Transocean’s, either were published before BOP testing was completed or did not have access to the full set of post-incident BOP data. Details that emerged in the final phase of BOP testing are imperative, as they reveal latent failures in the Deepwater Horizon BOP before it was deployed to the wellhead. Also, the 2013 MDL and Transocean records shed light on the operator/drilling contractor relationship between BP and Transocean as influenced by US offshore regulations. This relationship ultimately led to vaguely established safety roles and responsibilities that affected human performance and major accident risk management at Macondo.
+ Finally, a 2016 trial provided testimony from rig personnel who previously evoked the Fifth Amendment right, revealing additional insights into the decisions and actions of the well operations crew leading up to the blowout.
+
+The CSB builds on previously published investigation reports by analyzing evidence that, in some respects, became available only following their publication, offering technical, human, organizational, and regulatory perspectives beyond those of previous reports. In effect, the CSB Macondo investigation identifies several safety gaps and noteworthy lessons:
+· Testing limitations masked latent failures of the Deepwater Horizon BOP, affecting its operation on the day of the incident, and these latent failures will continue to exist for similarly designed blowout preventers unless modifications are made to current standard industry testing protocols.
+· Pressure conditions in a well can cause drillpipe to buckle (or bend) in a BOP even after a crew has initially sealed a well, potentially incapacitating emergency functions of the BOP intended to cut drillpipe and seal the well.
+· Industry is challenged to effectively assess the human performance expectations and human factors implications of the barriers and safety systems meant to control or mitigate the hazards of safety-critical well operations.
+· Cognitive and social skills training, in conjunction with technical competencies, can be valuable for combating cognitive biases and other mental traps that may influence decision-making within complex systems.
+· Gaps between work-as-imagined by well designers, managers, or regulatory authorities and work as-done by the well operations crew must be continually identified, managed, and minimized by building a resilient process that can sustain desirable operations during both expected and unexpected conditions.
+· Obstacles continue to exist that limit sharing of lessons from incident investigations in individual companies and across both the operator/drilling contractor boundary and international geographical regions.
+· An equal focus and effort to collect, measure, and improve process safety performance indicators to that currently dedicated to personal safety statistics is necessary to reduce the potential for a major accident event.
+· Corporate board of directors’ oversight, shareholder activism, and US Securities and Exchange Commission (SEC) reporting requirements have the potential to influence an organization’s focus on major accident risk.
+· Incongruities among proclaimed values, actual practices, and unstated basic assumptions within an organization’s culture impacts its focus on safety, necessitating efforts to effectively assess, monitor and modify all three cultural components for safety change to occur.
+· Complexities of multi-party risk management between an operator and drilling contractor in the US offshore industry necessitate more explicit and established safety roles and responsibilities, as well as oversight.
+· Several inadequate or missing regulatory attributes, if implemented within the US offshore regime, would put more onus on industry for managing major hazards and further empower proactive regulatory oversight and capacity.
+· Post-Macondo industry and regulatory gaps in managing safety-critical elements, human factors, process safety indicators, corporate governance, workforce engagement, and major accident risk management and oversight need to be filled.
+
+
+Report Structure
+ The CSB investigation of the Macondo incident covers technical, organizational, and regulatory factors that contributed to the April 20, 2010, event. Due to the span of issues examined, the report is divided into four volumes.
+
+ Volume 1 recounts a summary of events leading up to the Macondo explosions and fire on the rig pertinent to the CSB’s incident analysis and provides descriptive information on drilling and well completion activities.
+
+ Volume 2 explores several technical findings related to the functioning of BOP, a subsea system that was intended to mitigate or prevent a loss of well control. This volume examines the failures of the BOP as a safety-critical piece of equipment and explores deficiencies in the management systems meant to ensure that the BOP was reliable and available as a barrier on April 20. The CSB presents a technical examination of the BOP to discuss (1) key findings in functionality, availability, and reliability of the BOP as a well control device and safety-critical barrier and (2) gaps in the post-Macondo US regulations and good practice guidance. The CSB concludes that the functioning of the BOP is emblematic of an inadequate framework for managing safety critical elements in the US offshore sector. The Agency explores how other global offshore regions manage and regulate safety-critical elements to illustrate ways in which the US can further advance offshore safety.
+
+Volume 3 explores human and organizational factors associated with the incident, including aspects of the decision-making by the well operations crew leading up to the blowout and subsequent explosions. This examination emphasizes the complexity and implications for process safety management because of the heavy reliance on people both directly and indirectly for barrier effectiveness. It presents both challenges and opportunities for managing these realities. A review of several previous Transocean incident investigations demonstrates restricted transmission of lessons learned globally, both intercompany and intracompany to raise awareness of needed industrywide information sharing improvements. Volume 3 then reviews process safety indicators, highlighting the need for (1) improved industry guidance for performance metrics of barriers and safety systems and (2) active monitoring of real-time barrier indicators meant to drive daily decisions and actions as well as slow moving management system indicators that require longer timescales for identifying trends. Furthermore, the challenges of managing risk in a multi-party work environment are discussed to demonstrate how the complexity of the operator- contractor relationship in the offshore industry can lead to vaguely defined safety roles for both parties if they do not explicitly define their responsibilities. While BP and Transocean had corporate polices for risk management and risk reduction, neither assumed effective responsibility for ensuring their implementation at Macondo. The volume also addresses stratetiges for ensuring boards of directors remain focused on potential major accident events by examining corporate governance good practice, as well as the influence shareholders, SEC reporting requirements, and the regulator might apply. These and other issues create the foundation for examining BP’s and Transocean’s safety cultures, which were negatively impacted by an insufficient focus on process safety.
+
+ Volume 4 delves into the role of the safety regulator in overseeing offshore oil and gas activities. It discusses some of the deficiencies that existed at the time of the event, as well as the remaining challenges that exist today. The volume identifies key attributes of goal-setting, risk-reduction regulatory regimes around the world and discusses the limitations of the current US offshore regulatory system.
+
+ Recommendations seek to give the US offshore regulator, specifically the Bureau of Safety and Environmental Enforcement (BSEE), enhanced capabilities to drive safety improvements to prevent major accidents.
+
+
+Investigative Approach
+ The CSB examines the Macondo incident from a process safety perspective, integrating into its analysis fundamental safety concepts, such as the hierarchy of controls, risk reduction to as low as reasonably practicable, and human factors. While these concepts are not new in the petrochemical world or in other offshore regions around the globe, they are not as commonplace in the US outer continental shelf (OCS).
+
+ During its investigation, the CSB:
+· Conducted numerous interviews; collected almost one million documents from 24 companies and parties, including evidence from the National Commission on the BP Deepwater Horizon Oil Spill and the federal court multi-district litigation; gathered data from post-accident investigations activities, including testing of a critical piece of safety equipment (the BOP) and sponsored independent testing of an exemplar BOP component for further analysis.
+
+· Met with regulators, industry, and workforce representatives in the US, United Kingdom, Norway, Canada, Australia, and Brazil for information gathering purposes.
+
+· Conducted two public hearings. The first, in Washington, DC, in December 2010, focused on international regulatory approaches used to prevent major accident events offshore. Former and current regulatory officials as well as workforce and industry personnel participated in panel discussions on the challenges and benefits of various regulatory models. The second, in July 2012, advanced the discourse on the specific topic of developing, collecting, and using safety performance indicators by high hazard industries, regulators, and stakeholders for major accident prevention. The CSB Chairman and Board Members heard testimony from leading regulatory, industry, and workforce representatives, and CSB staff released preliminary findings of the Agency’s Macondo investigation.
+
+· Worked with experts in petroleum engineering, corporate governance, safety performance indicators, sociology, human factors, public policy, regulatory enforcement, and organizational culture to assist with the analysis. Former and current heads of regulatory regimes in the US and internationally were also consulted for their expertise.
+
+
+Investigative Challenges
+ The CSB is an independent federal agency charged with investigating industrial chemical accidents. Its mission is to independently investigate significant chemical incidents and hazards and to effectively advocate for implementing its recommendations to protect workers, the public, and the environment. Like its sister agency, the National Transportation Safety Board, the CSB focuses more on national and industrywide issues beyond the confines of the existing regulatory framework rather than solely on company-specific policies. The CSB looks for new opportunities to improve safety, not just for the companies involved, but for the broader chemical industry and the regulators. While the CSB often faces roadblocks and delays, the Macondo case presented one of the most challenging experiences in Agency history.
+
+ Unlike most CSB investigations that begin within 24 – 48 hours of an incident, the Agency’s inquiry into the April 20, 2010, Macondo event did not commence until July 2010, after receiving requests from Congress to analyze the incident in a manner similar to its inquiry into the 2005 BP Texas City refinery explosion. This late start was the first of many impediments. While most of the involved companies, including BP, cooperated with the CSB investigation, one important company did not. Transocean, the drilling contractor with the most witnesses on the drilling rig, refused to acknowledge the Agency’s jurisdiction and failed to respond fully to subpoena requests for documents and interviews. The CSB pursued enforcement actions in federal court, a multi-year endeavor that expended significant Agency resources. The CSB was also blocked from fully participating in portions of equipment testing, so it had to examine the data ex post facto. The CSB’s limited ability to fully influence the testing procedures precluded it from conducting further testing that would have led to a more thorough understanding of primary evidence in a timely way. Congress also declined to provide the CSB with additional funding for this major undertaking; thus, the CSB had to conduct the largest investigation in its history with its usual operating budget and staffing resources. All of these obstacles challenged the speed and depth of the Agency’s exploration of vital safety issues. Nevertheless, the CSB presents numerous technical, human, organizational, and regulatory findings that could reduce the risk of major accidents in offshore drilling and production activities.
+
+
+Key Investigative Findings and Conclusions
+ As with other major incidents, the Macondo blowout culminated from a complex, closely connected interplay of technical, human, organizational, and regulatory factors. Below are the key findings of the CSB Macondo investigation.
+
+ Technical Factors
+1. A BOP is subject to design capability limitations like any piece of technology. A BOP can act as a barrier only if closed manually by the well operations crew or automatically by a catastrophic event, such as a fire and explosion, which can trigger emergency backup systems.
+
+2. The BOP’s emergency disconnect system, the Automated Mode Function (AMF)/deadman, uses two redundant control systems, the yellow pod and the blue pod, to initiate closure of the blind shear ram (BSR). This redundancy is intended to increase the AMF/deadman reliability, but on the day of the incident only one of the two pods was functioning.
+	a. The blue pod was miswired, causing a critical battery to drain and rendering the pod inoperable on the day of the incident.
+	b. A critical solenoid valve in the yellow pod had also been miswired. Redundant coils were designed to work in parallel to open the solenoid valve, but the miswiring caused them to oppose one another. Had both coils been successfully energized during the incident, the solenoid valve would have remained closed and unable to initiate closure of the BSR. A drained battery likely rendered one of these coils inoperable, allowing the other coil to activate alone and initiate closure of the BSR.
+
+3. The safety-critical systems responsible for shearing drillpipe in emergencies had performance deficiencies even before the BOP was deployed to the Macondo wellhead.
+
+4. The AMF/deadman system most likely functioned on the day of the incident, but buckled off- center drillpipe in the BOP prohibited the BSR from fully closing and sealing the well.
+
+5. The drillpipe buckled due to effective compression, a phenomenon which occurs when large pressure differences between the inside and outside of the drillpipe are established.
+
+6. Effective compression risk can be managed by modifying the sequence in which the drill crew activates various components of the BOP to seal the well.
+
+7. At the time of the incident, neither recommended industry practices nor US regulations required testing of the AMF/deadman system. Despite post-incident changes that call for function testing the AMF/deadman, deficiencies identified during the failure analysis of the Deepwater Horizon BOP could still remain undetected in BOPs currently deployed to wellheads.
+
+
+Human and Organizational Factors
+8. In high-hazard operations, such as offshore drilling, humans are critical barriers, or layers of defense, against a major accident. Just like any other barrier, they require consideration of their performance strengths and limitations, and rely upon effective controls and safety management systems to promote positive performance outcomes.
+
+9. In manual operations, successfully closing a BOP depends on several human decisions before a well kick can develop into a blowout. Otherwise, well pressures and well flow can exceed the design capabilities of the BOP elements, leaving them unable to prevent an active blowout.
+
+10. No effective testing or monitoring was in place to verify the availability of the redundant systems in the AMF/deadman, which was the emergency system programmed to activate a blind shear ram in the BOP to shear drillpipe and seal the well.
+
+11. BOP systems responsible for shearing drillpipe in emergency situations are vulnerable to rare or inadequate testing. Transocean and BP’s routine inspection and weekly function testing of operational BOP components necessary for daily drilling operations were insufficient to identify latent failures of the emergency systems in the Deepwater Horizon BOP.
+
+12. The blind shear ram in the Deepwater Horizon BOP did not meet the manufacturer’s published design shearing capabilities for the diameter and strength of drillpipe used during all of the DWH drilling operations except for the drillpipe used on April 20; thus, for an extended time during the drilling process, the DWH BOP could not have reliably sheared the drillpipe during an emergency.
+
+13. A critical solenoid responsible for closing the blind shear ram during the AMF/deadman sequence in the yellow control pod was miswired. Wires within the solenoid all had similar connectors that lacked differentiation to ensure proper wiring.
+
+14. The miswired solenoid valve in the yellow pod and the deficient wiring in the blue pod of the emergency AMF/deadman system could not have passed the manufacturer’s factory acceptance testing procedures.
+
+15. The Macondo incident quickly progressed from a gas-in-riser event to an uncontrolled blowout after the crew’s well control actions and the physical well barriers (e.g., the BOP and diverter system) were unable to mitigate the hazardous conditions created once hydrocarbons entered the riser.
+16. The lack of incorporation of human factors considerations into the planning and executing the temporary abandonment of the Macondo well increased the likelihood of the blowout.
+
+17. The standard preset route of the diverter system on the Deepwater Horizon was to the mud gas separator (MGS) located on the rig rather than overboard. In this configuration, the diverter system required human intervention to safely route overflowing hydrocarbon gas.
+
+18. Just after oil and gas began inundating the rig floor on the DWH, the well operations crew closed the diverter. Moments after, the MGS was overwhelmed and hydrocarbons began blowing out of four different exit points onto the rig.
+
+19. A MGS is not designed to handle the pressure and flow of a blowout or gas-in-riser event and likely would have failed even if it had been preset to divert overboard; thus, pre-setting overboard to eliminate human intervention may actually lead to a false sense of security when that hazard remains.
+
+20. Gas-in-riser is a hazardous situation because it may be nearly undetectable in the early stages and can rapidly change from a seemingly stable condition to an extremely high flow rate, releasing large amounts of gas on the drilling rig that can ignite and explode.
+	a. At Macondo the contents of the riser erupted onto the rig floor only 2-3 minutes after hydrocarbons entered it.
+	b. Transocean identified riser unloading events, such as the two that occurred on Transocean rigs in the two years before Macondo, as “the biggest concern” when identifying areas for well control improvement.
+	c. With wells being drilled in deeper water, the requisite riser length continues to increase, increasing the potential for severe riser unloading should gas get above the BOP.
+
+21. Macondo is one of several other delayed kick-detection and riser-unloading incidents. Collectively these events suggest needed improvements in kick detection capabilities and assessments of the reliability of those capabilities during emergencies.
+
+22. Technical competency is only one aspect of an individual’s performance capabilities. Other nontechnical skills (NTS) are necessary to prepare individuals to manage the natural variability inherent in the complex system. Nontechnical skills enhance human performance reliability in high-demand and high-risk work environments, where people need innovation and adaptation to successfully operate within imperfect systems.
+
+23. The operator cannot write a drilling program that foresees all circumstances and covers every detail for the drilling contractor to follow. Therefore, the operator and drilling contractor must actively work to bridge the gap between work-as-imagined (WAI) in the drilling program as defined by well designers, managers, or even regulatory authorities and work-as-done (WAD) by the well operations crew.
+
+24. Operational structures within both BP and Transocean permitted the temporary abandonment process to evolve as it did; neither company effectively bridged the gap between WAI and WAD.
+	a. BP’s development of the Macondo Temporary Abandonment (TA) plan occurred without a formal process, creating conditions for a TA design that lacked assessment of decisions, including review of internal policies and standards to provide quality control.
+	b. On April 16, 2010, BP sent a final written Forward Plan to the Transocean well operations crew for the TA plan without mention of the negative pressure test.
+	c. BP provided written negative pressure test instructions to the well operations crew via a third-party contractor on the afternoon of April 20.
+	d. Missing from the TA process were tools that could have minimized the gap between WAI and WAD, such as written work plans or safety-critical procedures.
+	e. Transocean did not enforce its own policy to use written Standing Instructions to the Driller, which a previous Transocean incident investigation noted should “raise awareness and […] highlight” underbalanced conditions in a well when a single barrier is present.
+	f. Lacking identification or incorporation of safety-critical tasks for hazard controls in the TA procedures did little to emphasize or optimize crew performance.
+	g. Transocean did not follow its corporate policies to meaningfully engage the workforce in managing risks through identifying effective barriers.
+
+25. Transocean noted gaps between corporate policies and actual practice in two previous riser unloading events on its international rigs, but it did not address them corporate-wide, influenced by its decentralized organizational structure.
+
+26. Previous major accidents and investigation analyses have repeatedly shown that imbalanced indicator programs focusing mostly on personal safety without an equal focus on process safety will not adequately inform a company of its emerging major accident risk, yet companies, industry groups, and even regulators continue to rely on such a practice.
+
+27. At the time of the Macondo incident, both BP and Transocean collected, measured, and rewarded personal safety metrics. While both companies achieved low personal worker injury rates they did not give process safety the same attention.
+
+28. Transocean noted 121 well control events in 2009 that spanned 32 different operators from various geographical locations. Of those 121 well events, 71 were categorized as kicks. The Transocean data demonstrates that well kicks are not an isolated problem for only BP or the Gulf of Mexico region, but that kicks occur for many operators worldwide.
+
+29. The Macondo event yields several potential process safety indicators that industry and the regulator can use to more proactively assess process safety. Real-time and slow moving indicators can be derived from actively monitoring and tracking performance of both safety critical elements and tasks and the safety management system meant to ensure their reliability. Industry groups, like the International Association of Oil & Gas Producers, the Center for Offshore Safety, and Oil & Gas UK, continue to advance efforts to uncover and define such indicators.
+
+30. The complexities of multi-party risk management in the offshore industry led to inadequately defined safety roles and responsibility between the operator and the drilling contractor. Ultimately, while BP nad Transocean had rigourous corporate polices for risk management, neither company ensured their implementation at Macondo.
+	a. Both BP and Transocean had corporate risk management policies requiring risk reduction to a tolerable risk level, e.g., as low as reasonably practicable (ALARP).
+	b. Transocean offered minimal internal guidance and unclear expectations of the risk management tools its personnel should use for an offshore operation or facility, and the more rigorous ones were not applied at the Macondo well. Transocean claims not to have used the more rigorous ones because US regulations did not require them.
+	c. BP’s Major Accident Risk Process was not implemented, yet contacted rigs represent a major portion of BP’s Drilling Operation loss of well control and blowout risk.
+	d. BP did not use its Tr@ction electronic incident reporting systems to identify system-level causes and to track corrective action items for a delayed kick response that occurred at Macondo on March 8, 2010.
+	e. BP did not apply OMS requirements to the Deepwater Horizon through amendments to its contract or bridging documentation with Transocean.
+	f. BP did not pursue a 2008 initiative to engage its drilling contractors, such as Transocean, in risk reduction efforts by focusing on risk management roles and barrier responsibilities.
+
+31. A 2012-2013 multinational audit in the North Sea identified the interface of operator and drilling contractor safety management systems as a major issue of international concern.
+
+32. BP experienced several significant process safety incidents across different business segments within a ten-year period, including Grangemouth (2000), BP Texas City (2005), BP Prudhoe Bay (2006), and Macondo (2010), raising questions about the company’s corporate governance on safety issues.
+
+33. At the time of the Macondo blowout, no independent member of the board of directors from BP had a professional background in offshore drilling relevant to the risks undertaken at a well like Macondo.
+
+34. An analysis of BP board communications before and after the BP Texas City disaster in 2005, and of BP and Transocean communications before and after the Macondo disaster, illustrate an evolving approach to process safety and major accident prevention communications from BP’s board of directors’ perspective, and a somewhat more static and traditional approach by Transocean.
+
+35. Few specific data points relevant to a company’s health, safety, and environmental operations are specifically required for disclosure to shareholders of companies trading in the US under regulations promulgated by the SEC pursuant to the Securities and Exchange Act of 1933 or 1934, Sarbanes-Oxley, Dodd-Frank, or any other existing financial law or regulation.
+
+36. Post-Macondo, the offshore safety regulator, the Bureau of Safety and Environmental Enforcement (BSEE), issued best practice guidance to industry for creating an effective safety culture in its first ever Safety Culture Policy Statement, but it does not address the role a board of directors should play in establishing a strong safety culture.
+
+37. Safety culture assessments need to be conducted using a multifaceted approach that addresses worker/management perceptions and the context of those perceptions as they relate to the values of the organization, which are demonstrated by the actual practices of the organization (as opposed to written corporate policies that may not reflect actual practices).
+	a. A safety culture assessment of Transocean conducted a month before Macondo determined that, in some respects, the company displayed a worker perception of a relatively strong culture for safety, but that safety leadership deficiencies existed.
+	b. A safety culture assessment of BP post-Macondo found positive aspects of safety culture; however, the assessment lacked verification that BP upheld the espoused values and documented policies, as reflected in its actual practices conducted to manage its major safety risks at Macondo.
+	c. There are no regulatory requirements for companies to assess their cultures or enact corrective actions should the cultural findings indicate an insufficient focus on process safety or major hazards management.
+
+
+Regulatory Factors
+38. A number of regulatory attributes that would more explicitly place major hazard management responsibility on industry and empower proactive regulatory oversight are missing or inadequate from the existing framework and safety regulations established in the US offshore since Macondo:
+	a. An overall principle of continual risk-reduction to a tolerable risk level, e.g., ALARP.
+	b. Regulator adaptability that drives industry to continually improve safety.
+	c. Allocation of safety responsibility by those that create or control the major hazard risks.
+	d. Required written major accident safety documentation by designated and defined duty holders.
+	e. Active workforce participation supported by the regulator and regulations.
+	f. Proactive regulatory assessment, verification, and intervention.
+	g. Process safety indicators collected and used by the regulator to drive improved safety performance.
+	h. Regulatory transparency.
+	i. An independent, qualified and adequately funded regulator.
+
+39. Before the Macondo incident, a leaseholder/operator conducting US offshore drilling and completion operations was not required to maintain and implement a documented safety management program for its well operations; companies were asked to voluntarily adopt such a program.
+
+40. In the aftermath of Macondo, BSEE promulgated the Safety and Environmental Systems (SEMS) Rule, which does not reflect the advancements of process safety management over the last 20 years.
+
+41. The SEMS Rule has weak performance-based and “activity-based” requirements, primarily directing companies to complete activities instead of stipulating goals and requiring risk- reduction efforts that culminate in effective major accident prevention efforts. For example, the SEMS Rule:
+	a. requires that facilities manage identified hazards with no further dialogue on how far the operator must go to control those hazards
+	b. requires companies to establish management of change program goals, yet there are no requirements that such change management practices effectively reduce risk to a tolerable level (e.g., ALARP)
+	c. requires “the factors (human or other) that contributed to the initiation of the incident and its escalation/control” be addressed in incident investigations [250.1919(a)(2)], which is limiting and reactive, seeking only to assess human performance for its immediate causal ties to an incident
+	d. focuses on immediate causes of in incident investigations rather than safety management system and organizational causal factors, nor does it require companies to address the interface between the operator and contractor or the lessons learned from major incidents of other companies or in international waters and
+	e. does not require that corrective actions derived from investigation findings demonstrably reduce risk to a tolerable level (e.g., ALARP).
+
+42. The offshore regulations, including SEMS, do not require the operator and drilling contractor to:
+	a. implement effective barriers and management systems to reduce major accident risks to a tolerable level, e.g., ALARP 
+	b. document recognized methodologies, rationales, and conclusions to demonstrate efforts the company commits to implement to effectively control hazards
+	c. demonstrate use of process-safety concepts for hazard assessment and management, such as layers of protection and hierarchy of controls
+	d. identify and manage all safety-critical elements and tasks through defined performance standards.
+	e. demonstrate the incorporation of human factors in designing, planning, and executing critical well operations and to demonstrate that these human factors efforts will effectively reduce risk and
+	f. complete assurance and verification activities to affirm SEMS and the barriers relied upon are appropriate, available, and effective throughout the lifecycle of safety-critical operations.
+
+43. SEMS incorporates by reference the American Petroleum Institute’s (API) Recommended Practice for Development of a Safety and Environmental Management Program for Offshore Operations and Facilities (API 75), which was reaffirmed in 2008 and 2013 but has not been updated since 2004. API 75 lacks sufficient guidance on:
+	a. Human factors program requirements for the design, planning, execution, management, assessment, and decommissioning of well operations for the prevention of major accidents, as well as in the investigation of accidents and near-misses
+	b. Incorporation of the hierarchy-of-controls principle for identifying, establishing and implementing barriers meant to prevent or mitigate major accident hazards
+	c. Corporate governance and Board of Director responsibilities for major accident risk management
+	d. Workforce involvement and engagement in all aspects of the SEMS program
+	e. Leading and lagging key performance indicators that drive major accident prevention
+	f. Contractor oversight and effective coordination for major accident prevention
+	g. Expanded and defined roles and responsibilities for major accident prevention among the primary parties engaged in offshore drilling and production (i.e., the leaseholder/operator and owner/drilling contractor) who, depending on the well operations, will have primary control over major hazard operations and day-to-day activities and thus best positioned to implement and oversee a safety and environmental management system (SEMS) program to control major accident hazards and
+	h. Incorporation of an over-arching principle of managing major accident risk to ALARP (or a similar) for all elements of a SEMS program (various, including Volume 3, Sections 1.9 and 2.3, and Volume 4, Sections 3.0-3.2).
+
+44. While other global offshore regions have more substantial human factors requirements and guidance, there remains a dearth of US regulatory requirements or national industry guidance aimed at improving human performance during safety-critical offshore operations.
+
+45. BSEE regulations call for using the best available and safest technology (BAST), but in general considers compliance with BSEE regulations to equate with BAST. To require something not specified in US regulations, BSEE must complete a high-burden cost-benefit analysis to justify that the benefits outweigh the costs.
+
+46. Acceptance of documentation that demonstrates how major accident risk is being reduced to ALARP is not required before commencing hazardous work, in contrast with other international regimes (e.g., Australia and all European Union members), where regulators must accept a company’s proposed major hazard-management documentation, including identification of safety critical barriers and plans to monitor and maintain those barriers before commencing operations.
+
+47. Before the Macondo incident, offshore safety regulations were not enforced against contractors, who compose the vast majority of offshore workforce. Post-Macondo, BSEE has cited contractors for safety management failures; however, the regulator’s authority to require contractor compliance with the same regulatory standards as operators/lease holders is ambiguous, lacking clear guidance, and being contested.
+
+48. BSEE offshore regulations do not distinguish between design and operational risk; thus, they do not hold drilling contractors liable for the safety management of the operational risks within their control (i.e., those risks associated with work conducted at their own offshore facility or by their own workforce). This gap contradicts a basic premise of managing safety within high-hazard operations: those that create the risk or have the greatest control of the risks associated with a particular activity are responsible for controlling and mitigating it.
+
+49. Inadequate worker engagement in safety management policies, programs, and activities inherently limit a well operations crew’s ability to help manage the hazards for major accident prevention. The SEMS Rule:
+	a. does not apply to contractors, resulting in covering only a small portion of the offshore workforce for minimal worker engagement provisions
+	b. does not have requirements for worker-elected safety representatives or safety committees
+	c. does not give authority to the representatives and committees to be involved in all aspects of major hazard management, including incident investigation, inspection/audits, and hazard and barrier assessment
+	d. relies heavily on stop-work authority, which by its very nature requires workers to attempt to stop an unsafe operation when work stoppage is most challenging—when time and economic pressures are likely high. Further, it assumes that the worker has all the information to know a hazardous situation has developed. Finally, it obligates workers to stop work, creating potential blame and liability on workers who do not call for a stop work when a negative outcome results
+	e. lacks adequate requirements to protect workers from retaliation and
+	f. lacks provisions for safety committees or tripartite safety forums engaging the regulator, industry, labor.
+
+50. BSEE does not have or track SEMS performance indicators.
+
+51. BSEE tracks and publishes statistics for reportable incidents such as fatalities, fires and explosions, and incidents that result in property damage greater than $25,000, but BSEE does not use the data to drive industry safety initiatives.
+
+52. BSEE has observed that for companies like BP and Transocean, complying with SEMS entailed mapping their corporate policies to the SEMS elements listed in 30 CFR 250 Subpart S. For other organizations, the SEMS rule initiated a first attempt to formally develop a SEMS program. While many of those organizations complied, they were not using their SEMS to actually manage health, safety, and environmental risks.
+
+53. While BSEE does have the authority to inspect covered offshore facilities, it seldom relies on its authority to undertake SEMS inspection activities, instead relying upon third-party auditors. Without a strong SEMS program verification process, BSEE loses a primary oversight tool to ensure industry is effectively managing major hazards.
+
+54. Relying solely on third-party audits creates a gap between BSEE and the operators it regulates.
+
+55. Operators and drilling contractors are not required to provide public access to their safety-related documentation or statistics. In contrast, several domestic and international regulators require the public disclosure major accident risks of any operation.
+
+56. To operate a robust performance-based regulatory regime where the regulator directly oversees and evaluates total safety performance of the industry, BSEE’s enhanced recruiting, hiring, and retention efforts must continue and must include senior specialists with experience in areas such as petroleum engineering, process safety, human factors, and organizational performance.
+	a. The Department of Interior noted significant impacts to its budget in fiscal years 2013 and 2014, requiring a hiring freeze and reducing funding for staffing and oil and gas activities.
+	b. While BSEE received authorization to offer new recruits a salary incentive of 25% above base pay, it still pays nowhere near equivalent to private industry offerings.
+	c. Roughly 35 percent of BSEE’s petroleum engineers will be eligible to retire by 2017 compared with a government-side average of 27.5 percent for all federal employees during the same period.
+	d. BSEE does not have sufficient, sustainable funding to manage major accident prevention activities and drive continual improvement in the offshore industry with sufficient numbers of technically competent staff. In other parts of the world, a fee-for-service model has resulted in such a cost-effective regulatory scheme.
+
+57. Reorganization of the offshore safety regulator in the Department of Interior fails to reflect the lessons from previous congressional safety reforms and the experiences of other international offshore regulatory regimes. Independence is an essential feature of an effective safety regulator for major hazard facilities because offshore leasing and revenue generation goals often conflict with safety and environmental protection.
+
+
+
+Recommendations Summary
+ With Volumes 1 and 2 of the CSB Macondo Investigation Report, the CSB issues two recommendations to the Bureau of Safety and Environmental Enforcement within the United States Department of Interior, recommending requirements for managing safety-critical elements and developing guidance to fulfill those new regulatory obligations.
+The CSB also issues two recommendations to the American Petroleum Institute, recommending the publication of an offshore standard for the effective management of technical, operational, and organizational safety critical elements and revisions to API Standard-53 requirements for testing and monitoring of blowout prevention systems.
+ 
+ Volume 3 contains six recommendations. The CSB issues one to the American Petroleum Institute to revise API Recommended Practice 75 to expand SEMS responsibilities beyond just the operator; include explicit and expanded responsibilities for human factors, corporate governance, workforce involvement, contractor oversight, and key performance indicators; and incorporate the principles of a risk reduction concept (e.g., ALARP) and the hierarchy of controls.
+
+ Three recommendations to the US Department of Interior concern developing industry guidance on human factors and corporate governance and establishing a process safety culture improvement program.
+
+ The CSB issues one recommendation to the Sustainability Accounting Standards Board (SASB) to update, strengthen, and finalize the SASB’s provisional Oil & Gas Exploration & Production Sustainability Accounting Standard to expand its reporting recommendations to include disclosure of additional leading and lagging indicators, safety goals based on annual statistical analysis of industry data, and emphasis on the preventive value of leading and process safety indicators and the active monitoring of barrier effectiveness.
+
+ Finally, the CSB issues one to Ocean Energy Safety Institute to conduct further study on riser gas unloading scenarios and publicize those learnings to advance industry understanding of this well operations risk.
+
+ Volume 4 issues five recommendations to the Department of Interior: In brief, the CSB recommends revision and augmentation of existing offshore oil and gas safety regulations, including the SEMS Rule, to a more robust risk management regulatory framework that embodies key regulatory attributes found in other global offshore regions, including but not limited to systematic analysis and documentation by the responsible companies that risks have been reduced to ALARP and barriers are effective to manage major accident hazards:
+1. augmenting the capabilities and functioning of BSEE to empower it with the explicit regulatory authority to proactively assess industry safety management programs and practices before major accidents occur through preventive inspections, audits, and review and acceptance of regulatory- required safety management documentation.
+
+2. expanding BSEE staff to increase collective experience, diversity, and competencies in technical and safety-critical fields of study, including human and organizational factors and process safety.
+
+3. improving the offshore safety regulatory reporting program to focus on leading process safety indicators and barrier performance metrics that drive continual safety improvements of industry through specific indicator data trending, goal-setting, and transparency and
+
+4. strengthening regulatory requirements to improve worker engagement in major accident safety management, including but not limited to workforce-elected safety representatives and committees, authority and opportunity to interact with management and the regulator on safety concerns through proactive mechanisms, tripartite collaboration between workforce, industry and regulator, and worker protections to encourage all such activities.

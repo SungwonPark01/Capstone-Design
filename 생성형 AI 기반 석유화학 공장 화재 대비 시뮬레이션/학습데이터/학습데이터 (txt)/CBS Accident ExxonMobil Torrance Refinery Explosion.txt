@@ -1,0 +1,485 @@
+﻿
+ExxonMobil Torrance Refinery Electrostatic Precipitator Explosion Torrance, California
+ Incident Date: February 18, 2015
+On-Site Property Damage, Catalyst Particles Released to Community, Near Miss in MHF Alkylation Unit
+No. 2015-02-I-CA
+
+
+1.1 Executive Summary
+On Wednesday, February 18, 2015, an explosion occurred in the ExxonMobil Torrance, California refinery’s Electrostatic Precipitator (ESP), a pollution control device in the fluid catalytic cracking (FCC) unit that removes catalyst particles using charged plates that produce sparks—potential ignition sources—during normal operation. The incident occurred when ExxonMobil was attempting to isolate equipment for maintenance while the unit was in an idled mode of operation; preparations for the maintenance activity caused a pressure deviation that allowed hydrocarbons to backflow through the process and ignite in the ESP.
+The CSB found that this incident occurred due to weaknesses in the ExxonMobil Torrance refinery’s process safety management system. These weaknesses led to operation of the FCC unit without pre-established safe operating limits and criteria for unit shutdown, reliance on safeguards that could not be verified, the degradation of a safety-critical safeguard, and the re-use of a previous procedure deviation without a sufficient hazard analysis that confirmed that the assumed process conditions were still valid.
+This report discusses the key factors that caused this incident, which include:
+1. ExxonMobil did not establish the safe operating limits for operating the FCC unit in Safe Park—a standby mode of operation—or determine process conditions that required unit shutdown. As a result, the FCC unit was unknowingly placed in an unsafe condition when a critical safeguard—pressure induced by steam flow—was reduced below a safe level;
+2. ExxonMobil re-used a procedure developed for a similar maintenance operation in 2012 that allowed deviation from typical refinery safety requirements. ExxonMobil did not, however, perform a sufficient hazard analysis to determine if the unit conditions specified in the 2012 procedure were valid for the 2015 operation. The safeguards specified in the 2012 procedure were not sufficient for the 2015 operation, and they failed to prevent hydrocarbons from backflowing through the process and into the ESP;
+3. ExxonMobil operated FCC unit equipment beyond its predicted safe operating life. The failure of the equipment allowed hydrocarbons to reach the ESP;
+4. ExxonMobil lacked safety instrumentation to detect flammable hydrocarbons flowing through the equipment and into the ESP. The inability to detect hydrocarbons flowing to the ESP appears to be an industry-wide problem; and
+5. ExxonMobil refinery management permitted opening process equipment without conforming to refinery standards.
+As a result of this incident, a near miss event occurred in the modified hydrofluoric acid (MHF) alkylation unit when explosion debris nearly hit tanks in close proximity to the ESP, each containing hydrofluoric acid (HF), water, hydrocarbons, and a chemical additive intended to reduce the amount of HF vaporized during a loss of containment event. HF is a highly toxic chemical that can seriously injure or cause death at a concentration of 30 parts per million (ppm). ExxonMobil resisted CSB requests for safety information pertaining to the potential release of HF in the event the tanks were struck by explosion debris. ExxonMobil continues to refuse to provide the CSB with information detailing safeguards to prevent or mitigate a release of HF. The CSB has issued subpoenas for this information, and is pursuing enforcement in US Federal district court.
+As a result of the investigation findings of the February 18, 2015 incident, the CSB issues recommendations to ExxonMobil, Torrance Refining Company (the current operator of the refinery), and American Fuel and Petrochemical Manufacturers (AFPM). These recommendations aim to:
+
+
+· Ensure all ExxonMobil and Torrance refinery safety-critical equipment can effectively perform its safety-critical function;
+· Ensure ExxonMobil procedure deviations are analyzed for safety by a diverse, experienced team prior to their approval and implementation;
+· Ensure ExxonMobil and Torrance refinery ESPs are assessed for potential siting risks and are designed with safeguards to prevent major consequences of an ESP explosion; and
+· Ensure the lessons from this incident are learned broadly throughout the refining industry.
+
+
+
+1.1 Refinery Background
+ 	EXXONMOBIL CORPORATION
+The Exxon Mobil Corporation (ExxonMobil) was formed on November 30, 1999 as a merger between Mobil Oil Corporation and Exxon. ExxonMobil operates five refineries within the United States with a total combined capacity of approximately 1,857,500 barrels per day (bpd). ExxonMobil also explores for oil and gas deposits; drills wells; transports crude oil; and sells finished petrochemical products, including gasoline. In addition to a substantial research division, ExxonMobil has a chemicals division that produces a wide range of products, including synthetic rubber, plasticizers, synthetic automotive oil base stocks, and catalysts. In 2016, ExxonMobil reported $226 billion in revenue, with a net earnings of $7.8 billion.
+ 	TORRANCE REFINERY
+The General Petroleum Corporation, which would eventually become part of Mobil Oil,9 announced the construction of the Torrance refinery on October 4, 1928.10 The company chose this site due to its proximity to the Los Angeles Harbor, and because the City of Torrance was designed as a mixed use, industrial/residential area.
+The Torrance refinery was ExxonMobil’s second smallest refinery nationwide,12 and currently sells about 5 million gallons of low emissions gasoline per day in Southern California, Arizona, and Nevada. The Torrance refinery currently produces approximately twenty percent of the gasoline sold in southern California and ten percent state- wide. The refinery also produces jet fuel, diesel fuel, liquefied petroleum gases (LPG), coke, and sulfur. The refinery covers 750 acres and employs approximately 650 employees and 550 contractors. The Torrance refinery is surrounded by the City of Torrance, which as of July 2015, had a population of 148,000.13 Figure 1 shows the Torrance refinery, outlined in yellow.
+
+
+ 	PBF’S ACQUISITION OF THE TORRANCE REFINERY
+On September 30, 2015 ExxonMobil announced an agreement to sell the Torrance refinery to PBF Holding Company LLC (PBF). Founded on March 1, 2008, PBF owns five refineries in the United States with a combined capacity of 884,000 bpd. PBF completed its acquisition of the Torrance refinery from ExxonMobil on July 1, 2016, and Torrance Refining Company LLC (TORC), a fully-owned subsidiary of PBF, currently operates the refinery.,17
+
+
+
+
+
+1.1 Process Description
+The February 18, 2015 explosion at the Torrance refinery occurred in the refinery’s fluid catalytic cracking (FCC) unit. The FCC unit “cracks” heavy, high boiling point hydrocarbon molecules into smaller molecules with lower boiling points. The main product produced by the FCC unit is gasoline.
+A large portion of the FCC unit was involved in the sequence of events leading to the explosion in the unit’s electrostatic precipitator (ESP), which removes catalyst particles from the regenerator combustion gas to meet environmental regulations before it is discharged into the atmosphere. This section of this report describes the FCC unit at the Torrance refinery.
+
+	CATALYST LOOP
+During normal operation, a catalyst18 in the form of small spherical particles19 circulates between the reactor and the regenerator in the direction of the circular arrow in Figure 3. The catalyst is typically fluidized, meaning that the solid catalyst is aerated with hydrocarbon vapor, steam, or air so that it behaves like a liquid. The catalyst both drives the cracking reaction and transfers heat from the regenerator to the heavy hydrocarbon feed entering the reactor riser.
+
+The cracking reaction occurs in the reactor riser. Heavy hydrocarbons are fed into the reactor riser, where they vaporize upon contact with fluidized hot catalyst, and the cracking reaction begins. The cracking reaction continues as the mixture of hydrocarbon vapor and catalyst travel up the riser. Coke, a solid byproduct of the cracking reaction, deposits onto the catalyst particles during the reaction process, making the catalyst less effective. The coke-covered catalyst is referred to as “spent catalyst.” The spent catalyst and cracked hydrocarbon vapor exit the riser and enter the reactor vessel, where most of the catalyst particles are separated from the hydrocarbon vapor. The cracked hydrocarbon vapor then flows to the main column for separation (Section 3.2).
+The spent catalyst is routed to the reactor standpipe. Within the reactor standpipe is the spent catalyst slide valve (SCSV), which controls the spent catalyst flow into the regenerator.
+Inside the regenerator, the hot spent catalyst contacts air supplied by the main air blower. The coke deposits that are on the surface of the hot catalyst particles burn off when in contact with the air, in a combustion reaction. The heat of combustion further heats the catalyst particles, and this “regenerated catalyst” enters the regenerator standpipe. The regenerated catalyst slide valve (RCSV) controls the flow of the hot catalyst to the reactor riser where it contacts, heats, and vaporizes fresh heavy hydrocarbon feed to begin the cracking reaction.
+
+	MAIN COLUMN
+The cracked hydrocarbon vapors leave the top of the reactor and enter a distillation column21 called the main column. The main column is fed superheated22 hydrocarbon vapor, with no additional heat added to the column during normal operation. Heat is removed from the column to cool and condense the gas feed for separation by removing heat in several loops called pumparounds. In these pumparounds, heat exchangers transfer heat to other process streams in the refinery, reducing the temperature of the streams returning to the main column. The main column separates the product from the reactor into light hydrocarbons and heavy naphtha (which are further processed to produce gasoline), light cycle oil, and slurry oil.
+
+
+
+ 	REGENERATOR COMBUSTION GAS
+
+The gas leaving the top of the regenerator is composed of combustion product gases entrained with catalyst particles. The gas is routed to the gas/catalyst separator where most of the catalyst dust particles are removed from the combustion product gases. The gas, still containing some catalyst dust, flows through the expander, where the expansion of gas is used to partially power the main air blower. Heat is removed from the gas in the carbon monoxide (CO) boiler,24 and then the gas is routed to the ESP. The ESP collects most of the remaining small catalyst particles from the gas to meet California emissions regulations25 by using charged plates to attract the fine catalyst particles. This operation generates sparks—potential ignition sources—inside of the ESP.
+
+
+
+ 	HYDROCARBON LEAK TO AIR SIDE
+This report refers to the FCC unit as having two “sides” which are (1) the hydrocarbon side, and (2) the air side. The hydrocarbon side includes the reactor and the main column. The air side includes the regenerator and the piping and equipment downstream of the regenerator leading to the ESP. The SCSV and the RCSV are used to prevent undesirable mixing of air and hydrocarbons, which is an explosion hazard. During the Safe Park mode of operation (a standby mode of operation that the FCC unit was in on the day of the incident), the two valves isolate the air side and the hydrocarbon side from each other by maintaining a level of catalyst on top of the valves, forming a “plug” that prevents reactor process vapors from entering the regenerator, and vice versa.
+Discussed in Section 4.0, on the day of the incident, the SCSV did not maintain the catalyst plug. Hydrocarbons from the reactor flowed into the regenerator in the air side of the FCC unit, which in the Safe Park mode of operation was not sufficiently hot to burn (i.e. combust) the hydrocarbons. As a result, flammable hydrocarbons flowed to the ESP, where they mixed with air fed to the ESP from the CO boiler fans.
+Sparks within the ESP ignited the flammable mixture, causing an explosion.
+During Safe Park, a catalyst level on top of the SCSV and RCSV is intended to prevent hydrocarbons and air from mixing.
+
+
+
+
+
+1.1 Incident Description
+On February 18, 2015, a mixture of hydrocarbons and air accumulated and exploded inside of the ESP. This section details the events that led to the explosion. Figure 9 shows a timeline of events in the days leading to the incident.
+
+	PRE-INCIDENT
+1.1.1 Initial Expander Problems
+The sequence of events leading to the incident began when the expander (located in the air side of the FCC unit) started to experience vibration problems.
+The gas that flows through the expander contains a small amount of catalyst particles that may, over time, build up on the expander blades. Uneven distribution of this buildup causes the expander to vibrate excessively, which can cause significant damage to the expander. Torrance refinery instrumentation monitored the vibration of the expander so that when the expander vibration increased to a certain level, operators could clean the catalyst buildup from the expander blades.
+
+On the morning of Wednesday, February 11, 2015, the FCC expander started to experience increased vibration. On Thursday, February 12, 2015, workers cleaned the expander blades,27 and this temporarily reduced the expander vibration. Three days later on Sunday, February 15, 2015, however, the expander again began to experience high vibration.
+
+
+1.1.2 MONDAY, FEBRUARY 16, 2015
+1.1.2.1 Expander Excessive Vibration and Safe Park
+On the morning of Monday, February 16, 2015, workers cleaned the expander blades again. This time, however, it did not reduce vibrations. Refinery personnel decided to assess expander vibrations further after a planned FCC unit rate increase, in case the increased flow through the expander reduced the vibration. The vibrations, however, worsened when the flow rate through the expander increased. At 12:50 PM, the vibrations reached a high limit, and the control system automatically began emergency shutdown to transition the unit into an idled state referred to by ExxonMobil as “Safe Park”. To put the unit into Safe Park, the following process changes occur automatically:
+(1) the spent and regenerated catalyst slide valves close;
+(2) hydrocarbon feed to the reactor riser stops;
+(3) the main air blower and expander are shut down; and
+(4) valves open to inject steam into the reactor riser.
+The main column pumparound loops continue to operate and hydrocarbons remain in the main column. In addition, the ESP remains energized.
+
+To prevent an explosion during Safe Park, ExxonMobil relied on two safeguards to isolate flammable hydrocarbons in the hydrocarbon side of the unit from mixing with air in the air side of the unit. These safeguards include:28
+(1) A level of catalyst accumulated on top of each closed slide valve to form a physical barrier; and
+
+(2) Sufficient steam flow into reactor, which is used to generate a higher pressure in the reactor than in the main column to prevent hydrocarbons in the main column from backflowing into the reactor.
+
+Leading to the incident, both safeguards failed, allowing hydrocarbons from the main column to enter the air side of the FCC unit.
+
+
+1.1.2.2 Failure to Maintain Reactor Catalyst Level
+On February 16, 2015, when the FCC unit automatically transitioned to Safe Park, the control system moved both slide valves into the closed position. The SCSV, however, had severely eroded over six years of operation (see Section 5.3) and was unable to seal. As a result, within minutes after the FCC unit went into Safe Park and the SCSV closed, the catalyst particles from the reactor leaked through the SCSV and entered the regenerator (Appendix A). The SCSV safeguard failed because the damaged SCSV likely could not maintain a protective level of catalyst to isolate the reactor from the regenerator.
+
+
+1.1.2.3 Attempts to Restart Expander
+With the unit in Safe Park, operators attempted to restart the expander to bring the FCC unit back online. After four unsuccessful restart attempts, refinery personnel worked to identify a strategy to repair the expander.
+Operations personnel predicted the expander could not restart because catalyst had likely accumulated between the expander blades and the expander casing, preventing the blades from rotating. At the direction of ExxonMobil management, operators began isolating the expander from the process to allow for visual inspection inside of the expander. The expander, however, could not be isolated using the typical safe isolation practices required by ExxonMobil safety procedures.
+
+
+1.1.3 TUESDAY, FEBRUARY 17, 2015
+On Tuesday, February 17, 2015, a meeting took place involving maintenance and machinery reliability personnel, the FCC unit operations manager, and the FCC unit business team manager. This group discussed a similar expander outage that occurred in 2012, when the company made an entry into the expander while the unit was in Safe Park to inspect its internals following a failed startup. For that expander entry operation, the Torrance refinery developed a “Variance,” a management-approved procedure deviation that allowed a departure from typical refinery equipment isolation requirements. ExxonMobil engineers developed, analyzed, and approved the expander isolation method detailed in the Variance in 2012 (see Section 5.2).
+Because ExxonMobil developed, approved, and successfully used the Variance in 2012, the group decided to re- use the same 2012 Variance to isolate the expander for visual inspection. The approved Variance is located in Appendix B of this report.
+On the afternoon of Tuesday, February 17, 2015, operators worked to isolate the expander for maintenance as specified in the Variance. Part of the required isolation was to install a blind29 in a flange at the expander outlet. Workers began opening the flange on the outlet of the expander so that they could install the blind.
+
+
+	INCIDENT
+1.1.1 WEDNESDAY, FEBRUARY 18, 2015
+On the morning of Wednesday, February 18, 2015, ExxonMobil maintenance workers approached the open flange to install the blind. They did not install the blind, however, because at that time steam was escaping from the open flange, and they were concerned about their safety. Steam leaking from the flange indicated that the SCSV, one of the safeguards specified in the Variance, did not fully seal and there was no catalyst barrier present. Post-incident, the CSB identified meeting notes written on the Wednesday morning prior to the incident by an ExxonMobil manager overseeing the expander maintenance that questioned, “Does the leaking spent slide valve invalidate the Variance?” The sequence of events leading to the incident, discussed below, indicate that ExxonMobil management decided to continue isolating the expander while the unit remained in Safe Park even though it was known that the SCSV was leaking.
+
+Because no protective catalyst level had developed on the closed SCSV, the reactor pressure generated by steam fed to the reactor was the only safeguard preventing hydrocarbons from the main column from entering the air side of the FCC unit. Steam enters the reactor from several feed locations (e.g. steam fed to the riser, and “stripping steam” fed to the stripping section of the reactor). ExxonMobil adjusted the steam flow to the reactor primarily by adjusting the riser steam, although stripping steam was also being fed to the reactor during Safe Park. The Variance specified that for the expander entry operation the reactor steam flow should not be reduced below 2,000 pounds per hour. On the day of the incident, ExxonMobil did not evaluate whether this minimum steam flow rate specified in the Variance was sufficient to prevent hydrocarbons from entering the regenerator, with the knowledge that the reactor steam—the only remaining safeguard which was used to pressurize the reactor—was leaking through the SCSV (Section 5.4). Hourly workers who may have been more familiar with a higher, more typical Safe Park steam flow rate were not included in evaluating the steam flow rate specified in the Variance (Section 5.4).
+
+Relying on the minimum specified 2,000 pounds per hour reactor steam rate, the operations shift supervisor instructed the board console supervisor30 to reduce the steam flow through the riser in an attempt to reduce the amount of steam releasing from the expander outlet flange, so workers could safely access the flange. By 7:16 AM, the steam flow rate through the riser had been decreased from approximately 20,000 pounds per hour to approximately 7,500 pounds per hour. Unknown to operations personnel at the time, however, the reactor pressure was now too low to prevent hydrocarbons from backflowing from the main column into the reactor. Hydrocarbons from the main column (as will be discussed in Section 5.5 was at a higher-than-typical pressure due to accumulation of light hydrocarbons from a heat exchanger tube leak) flowed into the reactor and entered the air side of the FCC unit through the leaking SCSV.
+At 8:07 AM, a maintenance supervisor working in the FCC unit received an alarm on his personal hydrogen sulfide32 (H2S) monitor. H2S is present in the FCC unit hydrocarbons, and the alarm indicated that hydrocarbons were likely leaking from an unanticipated location. Refinery personnel, however, continued working near the expander. At approximately 8:40 AM, H2S monitors on multiple workers around the expander outlet flange activated, indicating that hydrocarbons were leaking out of the expander flange. At this point, operators began evacuating personnel from the FCC unit.
+Operations staff increased the steam flow up the reactor riser to 35,000 pounds per hour, but this action was taken too late; hydrocarbons had already entered the air side of the FCC unit and were flowing towards the ESP. The hydrocarbons soon reached the ESP and mixed with air flowing into the ESP from fans on the CO Boiler. At 8:48 AM, the flammable mixture ignited inside of the ESP, causing an explosion. See Appendix A for a full analysis of the relevant pressures, flow rates, and catalyst level data leading to the incident, and how they compare to the similar 2012 operation.
+
+ 	INCIDENT CONSEQUENCES
+The explosion severely damaged the ESP. Debris from the explosion hit equipment near the ESP, causing two small fires and multiple leaks of flammable liquids. The explosion debris also punctured a heat exchanger that was out-of-service. Four contract employees who were working nearby sought first aid for injuries sustained while fleeing the area. Debris also fell on a building frequently used by operators, though was unoccupied at the time. In addition, catalyst dust was reported outside of the refinery property in the nearby community.
+
+A large piece of debris from the explosion fell on scaffolding38 around two settler tanks, each containing hydrofluoric acid (HF), water, hydrocarbons, and a chemical additive intended to reduce the amount of HF vaporized during a loss of containment event39. Pure HF is a highly toxic chemical that can seriously injure or cause death at a concentration of 30 ppm. ExxonMobil resisted CSB requests for safety information pertaining to the potential release of HF in the event the tanks were struck by explosion debris. ExxonMobil continues to refuse to provide the CSB with information detailing safeguards to prevent or mitigate a release of HF. The CSB has issued subpoenas for this information, and is pursuing enforcement in US Federal district court.
+
+1.1.1 Catalyst Dust Reaching Community
+Some members of the local community are concerned about potential health effects from catalyst exposure, as a result of the ESP explosion and dispersion of catalyst dust.,43 The CSB is not aware44 if there are long-term health effects from exposure to this catalyst. The CSB therefore cannot make a statement regarding the toxicity or potential health effects of the catalyst dust. In this report, the CSB identifies the events and conditions that led to the February 18, 2015 ESP explosion, with the goal of preventing other similar incidents in refineries and communities across the country. The findings, key lessons, and recommendations from this report can help the refining industry learn from this incident. This report does not analyze the health effects of catalyst dust exposure.
+
+1.1 Causal Analysis of February 18 Explosion
+The CSB identified key factors that contributed to a flammable mixture accumulating inside of the ESP on the day of the incident. An Acci-Map46 depicting the CSB causal analysis is located in Appendix C. The key causal factors include the following:
+1. ExxonMobil relied on indirect operating parameters to measure critical safeguards for the Safe Park mode of operation. The relied-upon operating parameters did not signify that the FCC unit was in a dangerous condition leading to the incident. In addition, ExxonMobil had not developed a Safe Park procedure for how to safely operate within specified safe operating limits (Section 5.1);
+2. In 2015, ExxonMobil relied on a Variance that had been developed in 2012, without verifying that the safeguards specified in the Variance were sufficient (Section 5.2);
+3. Erosion damage that had developed over six years of operation likely compromised the SCSV, and it could not maintain a catalyst barrier while the FCC unit was in Safe Park (Section 5.3);
+4. Steam flow to the reactor had been reduced, likely causing a pressure deviation that allowed hydrocarbons to enter the flue gas system (Section 5.4);
+5. A leaking heat exchanger in the slurry oil pumparound allowed light hydrocarbons to enter and pressurize the main column to a higher-than-typical pressure (Section 5.5);
+6. ExxonMobil did not shut down the FCC unit when it was identified that the SCSV leaked and had not established a catalyst barrier (Section 5.6);
+7. The expander could not be effectively isolated while the unit was in Safe Park. ExxonMobil opened process equipment without conforming to refinery standards (Section 5.7); and
+8. The ESP remained energized when hydrocarbons entered the flue gas system, providing an ignition source to trigger the explosion (Section 5.8).
+This section discusses each of these factors that contributed to the incident.
+
+Equipment Isolation Methods
+This report discusses three types of equipment isolation methods: (1) single block and bleed; (2) double block and bleed; and (3) blinding equipment.
+
+A single block valve is closed to isolate the equipment from the process. A bleed valve between the closed block valve and the equipment is opened to remove process fluid from the piping. The pressure between the closed block valve and the bleed valve is measured to (1) verify the piping has been emptied and (2) to detect a pressure increase due to leakage of the closed block valve.
+
+Two block valves in series are closed to isolate equipment from the process. A bleed valve between the two closed block valves is opened to remove process fluid from between the valves. A bleed valve between the second closed block valve and the equipment is also opened to remove process fluid between that block valve and the equipment. The pressure between the two closed block valves, and between the second closed block valve and the equipment, is measured to (1) verify the piping has been emptied and (2) to detect a pressure increase due to leakage of the closed block valve(s).
+
+A blind is a solid metal disc that is inserted into a pipe flange, preventing the flow of process fluid to the equipment to be isolated. The use of a blind is often referred to as “positive isolation.” The piping upstream of the blind is often isolated by a single or double block and bleed.
+
+
+
+
+ 	LACK OF SAFE PARK PROCEDURE AND VERIFIABLE OPERATING PARAMETERS
+
+ExxonMobil relied on indirect operating parameters to measure critical safeguards for the Safe Park mode of operation. The relied-upon operating parameters did not signify that the FCC unit was in a dangerous condition before the incident. ExxonMobil did not develop a Safe Park procedure for how to safely operate within specified safe operating limits, with specified operating parameters that could directly verify the critical Safe Park safeguards. Safe Park procedure development and improved measurement and control of critical process conditions could have prevented this incident.
+
+The Occupational Safety and Health Administration (OSHA) Process Safety Management (PSM) regulation requires chemical processing facilities to develop operating procedures for each operating phase—including temporary operations such as Safe Park—that detail safe operating limits, consequences of deviation, and the steps required to correct or avoid the deviation. ExxonMobil had developed a procedure to enter Safe Park, and a procedure to transition from Safe Park back to normal operation. ExxonMobil had not, however, developed a procedure that detailed how to safely operate the FCC unit while in Safe Park. Despite the additional safety management system flaws that led to this incident, which will be discussed later in this report, the development of and adherence to a robust procedure that established Safe Park safe operating limits and the conditions that required emergency shutdown could have prevented this incident.
+At the time of the incident, ExxonMobil relied on two safeguards to prevent hydrocarbons from the main column from reaching the air side of the FCC unit: (1) a reactor pressure higher than the main column pressure, established by steam fed to the reactor; and (2) a catalyst barrier on top of the closed SCSV. ExxonMobil, however, relied on indirect operating parameters to maintain the two safeguards. Table 1 shows the two safeguards relied upon in Safe Park, the indirect operating parameters ExxonMobil used to monitor these safeguards, and examples of potential direct operating parameters ExxonMobil might have used to better verify that the safeguards were available.
+
+
+To maintain the reactor pressure above the main column pressure, ExxonMobil specified a minimum steam flow rate (2,000 pounds per hour) to feed to the reactor. Operating at this flow rate did not, however, ensure that the reactor pressure was kept above the main column pressure. A better parameter to measure could have been the differential pressure between the reactor and the main column. Because it was critical to maintain the reactor pressure above the main column pressure, ExxonMobil could have installed instrumentation to measure the differential pressure between the reactor and main column, specifically for use during Safe Park. ExxonMobil could have required in a Safe Park procedure for operators to monitor the differential pressure and adjust the riser steam flow rate to confirm the reactor pressure was maintained sufficiently above the main column pressure. As a potentially more robust system, ExxonMobil could also have configured the process control system to automatically adjust the riser steam flow rate to maintain the target reactor/main column differential pressure. Finally, ExxonMobil should have specified in a Safe Park procedure the minimum pressure differential that indicated the inability to maintain the differential pressure necessary to prevent dangerous backflow.
+This low differential pressure safety limit should have automatically, or as a minimum through operator required action, triggered a full unit shutdown to prevent hydrocarbon backflow and ignition in the ESP.
+ExxonMobil relied on SCSV position (i.e. closed SCSV) to indicate if a catalyst barrier was developed during Safe Park. As demonstrated by this incident, SCSV position does not provide information on the catalyst level above the SCSV. ExxonMobil should have specified process parameters for operators to monitor that could confirm the existence of a catalyst barrier. For example, a Safe Park procedure could have required operators to monitor the differential pressure between the SCSV standpipe and the regenerator (see Appendix A for 2012 and 2015 differential pressure data) to confirm that a catalyst barrier had been established. Alternatively, ExxonMobil could have measured the catalyst level in the SCSV standpipe. In addition, ExxonMobil should have specified in a Safe Park procedure the minimum limit (e.g. minimum differential pressure or minimum level) that should trigger full unit shutdown to prevent hydrocarbon backflow and ignition in the ESP.
+It is essential that refineries and chemical process facilities:
+1. Establish the upper and lower safe operating limits for all modes of operation;
+2. Develop procedures for all modes of operation that detail those safe upper and lower operating limits, and consequences of deviation;
+3. Configure process instrumentation to measure critical process conditions, so that operators can monitor and control the process such that it is within the intended safe operating limits; and
+4. Include in procedures the values for process parameters that represent the boundaries of safe upper and lower operating limits that require predetermined corrective action (e.g. unit shutdown). Define the steps for these pre-determined actions, whether implemented in a Safety Instrumented System or by operator action.
+Had ExxonMobil developed such a procedure, process controls, and pre-defined safe operating limits for Safe Park, this incident could have been prevented.
+
+
+	RELIANCE ON 2012 VARIANCE
+
+Leading to the incident, ExxonMobil chose to perform maintenance on the expander using a management- approved deviation from typical site safety policies. They chose to re-use a “Variance” procedure developed for a previous maintenance operation conducted in 2012. Leading to the incident, however, ExxonMobil management trusted the validity of the Variance procedure without ensuring the safeguards specified were sufficiently robust. The safeguards specified in the Variance procedure were not sufficient for the 2015 expander maintenance, and because they were not technically analyzed prior to the incident this deficiency was never identified. This section discusses the 2012 development of the expander maintenance Variance and its implementation in 2015.
+
+1.1.1 Development of 2012 Variance
+In 2012, an event similar to the 2015 expander shutdown occurred in the Torrance refinery; in 2012, the FCC unit had entered Safe Park due to a power outage, and when personnel attempted to re-start the expander, it would not restart. At the time, ExxonMobil believed catalyst buildup was preventing the expander blades from rotating. To verify the problem, refinery personnel planned to perform an entry into the expander to identify the expander operation problem.
+Safe entry into process equipment such as the expander typically requires blinding the process piping leading to the equipment that will be entered. The inlet piping to the expander, however, could not be blinded in its existing configuration; rather, blinding the expander inlet required removing a pipe spool piece. ExxonMobil justified not blinding the expander inlet by stating that “[t]he dropping of the expander inlet spool would present more hazards (including hand rigging, critical lifts, etc.) and more hours of exposure to personnel under unplanned conditions” than if they relied on a single block and bleed instead of a blind.
+In this scenario, using a single block and bleed to isolate equipment for a confined space entry was not consistent with standard
+
+
+ExxonMobil safety policies. As previously discussed, ExxonMobil allows deviation from safety policies as long as a Variance—a departure from ExxonMobil policies—is developed and analyzed for safety prior to performing the work. ExxonMobil engineers therefore developed a Variance in 2012 to perform the expander entry. In a conversation about the Variance procedure, ExxonMobil engineers discussed that both a steam barrier and a catalyst barrier were necessary to safely perform the confined space entry to prevent hydrocarbons from entering the expander, but they were still uncertain whether the discussed isolation strategy complied with ExxonMobil safety practices.
+
+
+Nevertheless, ExxonMobil refinery management developed and approved the Variance for use in 2012. As specified in the Variance, in 2012 refinery personnel conducted the expander entry with the following unit configuration:
+· Single block and bleed of expander inlet as opposed to blinding;
+· Blind installed at expander outlet;
+· SCSV and RCSV in closed position (Note: accumulated catalyst on top of valves was not specified in the Variance even though it was discussed by the engineers in Figure 21);
+· Steam flowing to the reactor, specified as a minimum of 2,000 pounds per hour (Note: No analysis was presented for this steam flow rate. Actual riser steam flow rate was about 7,000 pounds per hour. See Appendix A.); and
+· Unit was in Safe Park, with ESP energized.
+In 2012, refinery personnel conducted the expander entry with no incident. Process data indicates that a catalyst barrier accumulated on top of the closed SCSV (Appendix A). No hydrocarbons entered the flue gas system during the confined space entry.
+
+
+KEY LESSON
+ When implementing a deviation from an existing procedure, it is critical that the company conduct a management of change to—among other requirements—verify and authorize the technical basis, the implementation time period, and identify any new or affected hazards and associated mitigation strategies. If the procedure deviation is saved for future use, before implementing the procedure the company should verify that the underlying conditions, activities, and technical assumptions that were the basis for the initial authorization are in place and are still valid.
+
+
+
+
+
+1.1.2 Use of 2012 Variance in 2015
+Discussed above, in February 2015 the expander automatically shut down (Section 4.1.2) and ExxonMobil refinery management wanted to enter the expander to identify why the expander would not restart. Personnel involved with the 2015 expander troubleshooting had participated in the 2012 expander entry, and believed that a similar entry would be required to identify the expander startup problem. ExxonMobil management decided to re-use the 2012 Variance to perform a confined space entry into the expander. In 2015, however, no formal meetings or discussions were held to discuss the validity of the Variance. Rather, one FCC unit manager presented the 2012 Variance to five management personnel individually, seeking their approval. No managers considered whether the condition of the FCC unit was the same as it was in 2012. No one conducted a safety analysis to identify whether the safeguards in place for the 2012 confined space entry were still adequate for the 2015 planned operation. As discussed below, the steam and catalyst safeguards discussed by the engineers in 2012 and specified in the 2012 Variance were not adequate or were not maintained during preparation for expander entry in 2015.
+
+ Spent Catalyst Slide Valve Failure
+The 2012 Variance specified the closed SCSV as a safeguard, with the intent for it to develop a catalyst level above it to prevent the backflow of hydrocarbons to the regenerator. On the day of the incident, however, the SCSV could not function as an effective safeguard during Safe Park because it had severely eroded during its six years of operation. Leading to the incident, ExxonMobil refinery personnel became aware that the SCSV was not an effective safeguard during Safe Park, but they continued with their expander maintenance attempt. This section discusses the history of erosion of the SCSV, ExxonMobil’s failure to effectively test the sealing capability of the valve, the refinery’s extended use of the SCSV beyond its established safe operating life, and the absence of an effective risk analysis to identify the safety consequences of valve failure during Safe Park.
+
+Following the February 18, 2015 incident, the CSB inspected the internal components of the SCSV. The inspection found the valve internals to be severely eroded to the point that the valve could not seal. An area of approximately 16 square inches eroded away during six years of operation, providing an open path for catalyst to flow through the valve even when in the fully closed position. The erosion prevented the closed SCSV from developing the necessary catalyst barrier on the day of the incident. Photos of the erosion identified in the SCSV are shown in Figure 23.
+
+
+1.1.1 SCSV Testing Strategy Ineffective
+When the FCC unit entered Safe Park on February 16, 2015, the SCSV automatically closed. The SCSV is classified by ExxonMobil as a “safety critical device.”50 As discussed previously, for the SCSV to perform its safety function to prevent undesirable mixing of air and hydrocarbons while the FCC unit was in Safe Park, ExxonMobil relied on the SCSV to sufficiently seal so that catalyst particles could accumulate on top of the valve and form a plug (Section 3.4). The CSB notes, however, that the SCSV is a control valve, and the use of the SCSV in this way treats it as a block valve which may be beyond its design intent. With this qualifier, the CSB discusses in this section the deficiencies that resulted in the SCSV not sufficiently sealing during the 2015 Safe Park.
+The SCSV operates in a severely erosive service. The continuous flow of abrasive fluidized catalyst particles during normal operation erodes the slide valve internals, which can prevent the valve disc from sealing.
+ExxonMobil repaired the SCSV internals during turnarounds in 2000, 2004, and 2009 because the valve had eroded. An ExxonMobil “Equipment Degradation Document” details the likelihood of SCSV inability to seal due to erosion of the valve.
+
+
+The Equipment Degradation Document predicts the probability of failure of the SCSV due to erosion, based upon a four- to five-year run length of the FCC unit between turnarounds. To ensure effective operability of the valve, ExxonMobil assigned it a testing interval of every four years to make sure the valve could function as required to prevent a flow reversal during normal operation. To meet the four-year testing requirement, ExxonMobil periodically partially closed the SCSV while the unit operated to verify that the mechanical valve components functioned properly. While an important mechanical testing strategy, this testing method did not evaluate whether the valve was eroded, or test whether the SCSV could close and seal. ExxonMobil therefore relied on the SCSV—specified as a safety-critical device—without verifying that it could perform its safety function of preventing air and hydrocarbons from mixing when the unit was in Safe Park.
+
+To effectively assess the integrity of the SCSV internals, the valve had to be visually inspected to identify erosion that could prevent the valve from performing its Safe Park safety-critical function—sufficiently sealing to develop a catalyst barrier. At the time of the incident, however, ExxonMobil had been operating the SCSV since January 2009—over six years—and had not performed a visual inspection after the 4-5 year run length specified in the Equipment Degradation Document. ExxonMobil therefore operated the SCSV without verifying that the valve could perform its safety-critical function. As a result, on the day of the incident, the eroded SCSV could not establish a catalyst safeguard and did not prevent hydrocarbons from entering the air side of the FCC unit.
+
+1.1.2 Extended Operation of SCSV
+ExxonMobil performed FCC unit turnarounds in 2000 and 2004. The refinery scheduled the next turnaround for April 2009, but due to timing of other projects taking place in the FCC unit, it was split into two turnarounds that took place in January 2009 and March 2010. ExxonMobil replaced the SCSV during the January 2009 turnaround.
+ExxonMobil planned to conduct its next FCC unit turnaround in June 2015. This turnaround timing meant that the SCSV would operate for over six years.
+ExxonMobil did not perform a risk evaluation (e.g. management of change) to identify the safety consequences of operating the SCSV for the extended period. ExxonMobil also did not schedule its turnaround to accommodate the safe operating life of the safety-critical SCSV.
+
+
+1.1.3 Damage Mechanism Hazard Review Ineffective
+
+ExxonMobil performed a damage mechanism hazard review52 of the SCSV. The hazard review correctly identified that erosion was a damage mechanism that affected the SCSV. ExxonMobil, however, identified only a financial consequence of SCSV failure by erosion. Despite the SCSV classification as a safety- critical device, the company did not identify a safety and health consequence. The CSB found that ExxonMobil considered only normal operating conditions when identifying consequences of failure. ExxonMobil did not consider that an eroded SCSV may not maintain a catalyst plug while the FCC unit was in Safe Park.
+
+
+1.1.4 Work Progressed on Day of Incident When It Was Known SCSV Was Leaking
+ExxonMobil management knew the SCSV was leaking leading up to the incident. Notes from meetings of management personnel questioning “Does the leaking spent slide valve invalidate the variance?” and CSB interviews demonstrate that managers knew and discussed that the SCSV was leaking on the day of the incident. The catalyst level in the reactor—showing zero level—was displayed on the FCC unit console, measurements of high temperature downstream of the slide valve indicated that steam was leaking through the slide valve, and steam was visually observed leaking from multiple locations on the air side of the FCC unit.
+
+
+Despite the leaking SCSV, ExxonMobil continued to try to isolate the expander from the process. At that point, the company relied solely on steam as a barrier to prevent the flow of hydrocarbons into the air side of the FCC unit. ExxonMobil did not, however, perform a risk analysis of whether steam was a sufficient safeguard, and did not analyze the steam flow rate necessary to prevent hydrocarbons from entering the air side of the FCC unit (Section 5.4). And as discussed in Section 5.1, had ExxonMobil previously developed and followed a pre-established Safe Park operating procedure, it may have required unit shutdown when the catalyst barrier was lost.
+
+
+1.1.5 Opportunity for Safer Design
+As demonstrated by this incident, an SCSV may not effectively seal and develop a catalyst barrier during Safe Park. The CSB learned that some FCC units include two SCSVs in series between the reactor and regenerator. The second SCSV operates only when the unit enters Safe Park, functioning as a block valve to accumulate a catalyst barrier. This strategy may reduce the potential of relying on an eroded SCSV to establish a catalyst barrier.
+
+ 	STEAM BARRIER FAILURE
+
+Despite it being the only remaining safeguard preventing hydrocarbons from flowing to the energized ESP, ExxonMobil never calculated the steam flow rate required to pressurize the reactor to prevent hydrocarbons from backflowing to the air side of the FCC unit. This section discusses ExxonMobil’s reliance on and lack of analysis of the 2,000 pounds per hour steam flow rate specified in the 2012 Variance, which was never technically analyzed by ExxonMobil prior to the 2015 expander maintenance attempt.
+
+In Safe Park, steam is the second barrier between the hydrocarbon and air side of the FCC unit. It is used to pressurize the reactor pressure above the main column pressure. Steam flows into the reactor from several feed locations, one of which is the reactor riser, separating air in the regenerator from hydrocarbons in the main column.
+
+On the morning of February 18, 2015, steam leaked out of the open expander flange. ExxonMobil operations management instructed the console supervisor to reduce the steam flow rate—in an attempt to reduce the amount of steam exiting the expander outlet flange—to allow maintenance workers to install a blind safely. The console supervisor reduced the steam riser flow rate to about 7,500 pounds per hour. The company based this reduction in steam flow on the 2012 Variance, which specified a minimum steam flow rate of 2,000 pounds per hour. But by reducing the steam flow to 7,500 pounds per hour, the reactor pressure fell below the main column pressure. The reduced reactor pressure could no longer prevent hydrocarbons from the main column from entering the reactor, then flowing into the regenerator and the flue gas system.
+In the 2012 Safe Park, the steam flow into the riser was reduced to approximately 6,500 pounds per hour during the expander maintenance work. During that 2012 expander maintenance operation, the catalyst barrier remained above the closed SCSV and the main column pressure was lower than its pressure in 2015 (Appendix A).
+
+When ExxonMobil developed the Variance in 2012, the company performed no analysis and provided no justification for the 2,000 pounds per hour steam flow rate. On the day of the incident, although ExxonMobil knew the catalyst safeguard was not in place, no one conducted an analysis to determine whether the 2,000 pounds per hour steam rate specified in the Variance was sufficient—even though it served as the only remaining safeguard preventing hydrocarbons and air from mixing. Had ExxonMobil conducted a safeguard analysis, they may have required a higher minimum steam flow rate, or decided to shut down the FCC unit before the expander maintenance could be safely conducted.
+The CSB also found that FCC unit operators were not included in the 2012 Variance development process and were not consulted on the day of the incident about the 2,000 pounds per hour steam flow rate specified in the Variance. An ExxonMobil FCC unit operator expressed to the CSB doubts about relying on the 2,000 pounds per hour steam flow rate:
+I asked about the amount of steam because it said 2,000 pounds [per hour], and I said, “Shouldn’t it be a lot higher than that?” And [my supervisor]’s like “No, the engineers have looked at it.” I said, “Okay.”
+ExxonMobil can improve the safety analysis of a proposed Variance by requiring a multi-disciplinary team—composed of a technical expert such as a process engineer, a safety and health representative, and an experienced operator on the applicable unit—to review the proposed Variance before its approval and implementation.
+
+ 	HEAT EXCHANGER TUBE LEAK
+
+Tubes in a heat exchanger connected to the FCC unit developed holes during extended operation, causing an increased main column pressure that contributed to hydrocarbons flowing to the ESP.
+
+
+On the day of the incident, a higher than normal pressure in the main column allowed hydrocarbons to enter the reactor with the riser steam flow rate reduced to 7,500 pounds per hour. Leading to the incident, the main column operated at a pressure of about 8.5 psig, roughly double the main column pressure during the 2012 Safe Park (see Appendix A).
+In 2015, the column pressure had increased because a heat exchanger—that had an extended operation—on the slurry oil pumparound loop was leaking naphtha into the slurry oil. The high temperature of the slurry oil vaporized the more volatile naphtha, which increased the pressure of the main column.
+The heat exchanger that leaked naphtha into the slurry oil pumparound was one of two heat exchangers that provided heat to a distillation column in a neighboring unit. The heat exchangers were designed so that one heat exchanger could be operated while the second heat exchanger remained on standby. The standby exchanger was clean and ready for use when the operating heat exchanger had to be taken offline for cleaning, inspection, and maintenance.
+
+
+The tubes of the operating heat exchanger were scheduled to be cleaned to remove process buildup and then be visually inspected in September 2013. A block valve that could isolate the heat exchanger from the process, however, would not sufficiently close, and so the heat exchanger cleaning and inspection could not be completed while the unit was operating. ExxonMobil chose to continue operating the fouled heat exchanger until the next scheduled turnaround in June 2015.
+In its Equipment Strategy document, ExxonMobil personnel previously identified that the heat exchanger tubes could corrode and/or erode and leak naphtha into the slurry oil, but they did not identify that such a leak could have negative safety consequences during Safe Park, and identified only a minor economic consequence (“Consequence IV” in Figure 31 is an internal ExxonMobil financial consequence category).
+This specific main column pressurization scenario could be difficult to identify—and was not identified by ExxonMobil—in typical hazard analyses. This underscores that ExxonMobil could have best prevented this incident by monitoring operating parameters that could directly verify safeguard availability, and developing a procedure that required corrective action (e.g. unit shutdown) when pre-determined safe operating limits were deviated from to prevent hydrocarbon backflow through the process (Section 5.1).
+
+
+	FCC UNIT REMAINED IN SAFE PARK AND WAS NOT SHUT DOWN
+
+Leading to the incident, there were indications that the FCC unit was in an unsafe state, but due to, among other things, a lack of effective safeguard analyses, ExxonMobil never shut down the unit. This section discusses the missed opportunities to identify the potential for an ESP explosion.
+
+From the time the vibrating expander caused the FCC unit to go into Safe Park until the explosion two days later, the FCC unit remained energized and hydrocarbons continued to circulate within the unit. When ExxonMobil personnel identified the leaking SCSV and the absence of a catalyst barrier, ExxonMobil chose to keep the FCC unit in Safe Park and proceed with working to enter the expander. When refinery personnel saw steam leaking out of the open flange, presenting a hazard to workers, ExxonMobil kept the FCC unit in Safe Park, choosing to reduce the steam flow rate to minimize worker exposure. The ESP remained energized in Safe Park, and the ignition source remained available when the reduction in steam flow rate caused the pressure deviation that allowed hydrocarbons to backflow through the process and reach the ESP.
+The CSB identified four main reasons ExxonMobil continued to operate in Safe Park when personnel identified the SCSV had not developed a catalyst barrier:
+(1) It is faster to start the FCC unit up from Safe Park than from a complete shutdown, meaning production can begin again sooner;
+(2) ExxonMobil believed that completely shutting down the FCC unit was a non-routine, non-steady state operation that could introduce greater hazards to refinery personnel;
+(3) ExxonMobil personnel did not conduct an analysis to identify the safety consequences of relying on the single steam safeguard after they became aware that the SCSV safeguard failed; and
+(4) ExxonMobil did not have a Safe Park procedure that required unit shut down if a safety-critical safeguard, such as a specific catalyst level above the closed SCSV, was not established.
+The CSB concludes that ExxonMobil personnel were likely not focusing on how the failure of the SCSV safeguard affected the overall safety of the unit. Rather, refinery personnel were primarily focusing on accessing the expander and restarting the unit.
+
+
+	EXXONMOBIL OPENED PROCESS EQUIPMENT NOT IN CONFORMANCE WITH
+ Refinery Standards
+The expander outlet could not be isolated in conformance to ExxonMobil Torrance refinery safety policies while the FCC unit was in Safe Park. As a result, ExxonMobil did not follow refinery safety policies when attempting to blind the expander outlet.
+ExxonMobil was motivated to perform maintenance on the expander while the unit was in Safe Park, but the piping around the expander was not designed to allow the expander to be safely isolated. ExxonMobil management, however, chose to isolate the expander, described below, using unreliable and unsafe isolation methods.
+On the day of the incident, ExxonMobil opened the expander outlet flange so that a blind could be inserted to isolate the expander from the process for a confined space entry operation. ExxonMobil corporate policies require double block and bleed to isolate equipment prior to installing a blind, but also allow single block and bleed (which is detailed in the “Lock Out Tag Out Procedure”) if that is the only option.
+
+
+KEY LESSON
+
+ Control valves typically should not be used as block valves because fluid flow through a partially open control valve can cause damage to the valve that can limit its ability to fully seal.
+
+The piping leading to the expander outlet flange was not designed to allow double block and bleeding. The maintenance bypass valve shown in Figure 34 could not be used to isolate the expander from the process because it had a hole designed into it for overpressure protection purposes. ExxonMobil, therefore, had to perform a single block and bleed to isolate the expander from the process. The only valves available to isolate the expander outlet from process fluids (steam and hydrocarbons) were the SCSV and RCSV. These valves, however, are control valves that throttle the flow of catalyst.
+ExxonMobil does not consider control valves to be energy isolation devices that can be used to isolate equipment for opening. Control valves typically should not be used as block valves because fluid flow through a partially open control valve can cause damage to the valve that can limit its ability to fully seal. The site therefore did not comply with refinery standards when attempting to insert the blind into the expander outlet. If ExxonMobil management had adhered to the Lock Out Tag Out procedure, they would not have been able to use the SCSV and RCSV to isolate the expander from process fluids, and the expander outlet flange would not have been able to be opened while the unit was in Safe Park. Alternatively, ExxonMobil could have developed a Variance to depart from the typical safety practice and conducted a detailed hazard evaluation to evaluate the safety of the proposed isolation strategy. ExxonMobil did not, however, develop a Variance for this operation. In this instance, opening the expander outlet flange led to the decision to reduce reactor steam flow, which led to the ESP explosion.
+
+
+ 	ESP REMAINED ENERGIZED WHEN HYDROCARBONS ENTERED FLUE GAS SYSTEM
+
+ExxonMobil hazard analyses did not sufficiently address the risk of hydrocarbon backflow to the ESP. This oversight resulted in an FCC unit design that could not detect all possible flammable gases flowing toward the ESP. This section discusses the ignition of hydrocarbons in the ESP at the ExxonMobil refinery.
+
+The ESP generates sparks during normal operation. ExxonMobil corporate design practices therefore require ESPs to be shut down when a flammable gas mixture might enter them. On the day of the incident, however, the Torrance refinery ESP was not shut down when hydrocarbons flowed toward and entered the energized ESP. As a result, sparks within the operating ESP ignited the flammable mixture, resulting in the explosion. This section discusses CSB findings of why the ESP was not automatically shut down when hydrocarbons entered the flue gas piping leading to the ESP.
+
+
+1.1.1 Hydrocarbons in Flue Gas Piping Did Not Trigger ESP Shutdown
+The ExxonMobil Torrance refinery installed a new ESP into the FCC unit in 2009 to meet new environmental regulations. The refinery contracted an engineering services firm to design and construct the new ESP. The engineering services firm performed a Process Hazard Analysis (PHA) on the design in November 2006. The PHA identified that flammable vapors could reach the ESP, potentially causing a fire or explosion.
+
+In its 2006 PHA, however, the company did not identify specific scenarios that could cause the generically termed “flammable vapors” to reach the ESP. ExxonMobil resolved the action item by installing carbon monoxide (CO) analyzers in the flue gas system to detect combustible gases flowing into the ESP. Carbon monoxide is a flammable gas that can be generated by incomplete combustion of hydrocarbons within the FCC unit.
+ExxonMobil chose to install CO analyzers to detect flammable vapors because ExxonMobil personnel believed any hydrocarbon vapors within the flue gas system would be accompanied by carbon monoxide. ExxonMobil personnel believed hydrocarbons would partially combust in the FCC unit, producing CO. The 2006 PHA, the action item resolution team, and the subsequent PHAs performed in 2009 and 2014, did not consider the scenario of hydrocarbons entering the flue gas piping while the unit was in Safe Park, when heat is not available to initiate the combustion reaction that produces CO.
+On the day of the incident, while the unit was in Safe Park, hydrocarbons entered the flue gas system without the presence of CO. With no analyzer for hydrocarbons, the flammable atmosphere could not be detected. As a result, the energized ESP ignited the hydrocarbons and caused an explosion. The Torrance refinery designed the ESP to remain energized during Safe Park in order to comply with environmental regulations requiring removal of catalyst fines from discharge gases released to the atmosphere.
+
+1.1.2 Previous ESP Hydrocarbon Explosions
+The CSB is aware of at least two other incidents similar to the 2015 ExxonMobil Torrance incident where hydrocarbons mixed with air, resulting in an ESP explosion:
+1. On October 28, 1994, an explosion occurred at the Conoco Lake Charles Refinery in Westlake, Louisiana. Similar to the ExxonMobil incident, hydrocarbons from the FCC unit main column entered the air side of the FCC unit. The hydrocarbon source was SNG (sweet natural gas) that was being used to maintain pressure on the main column. The hydrocarbons mixed with air and ignited, causing an explosion that ruptured the ESP. One person was killed and nine were injured.
+
+2. On January 10, 2013, an explosion occurred in the Chevron Salt Lake Refinery ESP. During a unit upset, refinery personnel fed hydrocarbons58 to the regenerator to maintain the regenerator temperature to allow for a more efficient re-start of the FCC unit. At the time, however, the main air blower was not operating at full capacity, and the hydrocarbons did not fully combust inside of the hot regenerator. Unburned hydrocarbons traveled to the ESP, where they mixed with purge air also flowing into the ESP. The ESP ignited the mixture, causing an explosion. No injuries were reported.
+
+
+1.1.3 Opportunities for Safer Design
+The 2015 ExxonMobil incident, as well as previous FCC unit incidents in the refining industry, show that hydrocarbons can and have ignited in refinery ESPs. CO analyzers may not be sufficient to identify all potential flammable gases in flue gas piping leading to an ESP; hydrocarbons may enter flue gas piping without CO also being present.
+Following the February 18, 2015 incident, based upon information obtained by ExxonMobil, TORC personnel communicated to the CSB that it was TORC’s understanding that hydrocarbon detectors could not adequately function at the very high temperatures typical in the flue gas piping. This reasoning could have contributed to the decision by ExxonMobil to install only CO analyzers to detect flammable vapors in the flue gas piping because CO analyzers may be able to operate at a higher temperature than hydrocarbon detectors. To prevent ESP explosions, it may be essential to be able to detect hydrocarbons—not in the presence of CO—in the flue gas system leading to ESPs. The inability to detect hydrocarbons in FCC unit flue gas systems may be an industry- wide process safety design weakness.
+
+In addition, it is not clear for how long after an ESP shuts down it continues to spark, creating potential ignition sources. The CSB identified industry references that indicate an ESP may continue to contain ignition sources for hours after they are shut down. An alternative design could possibly include an emergency ESP bypass or an emergency grounding system to prevent ignition in the ESP. At the time of the incident, once a flammable gas entered the flue gas system, the only path it could follow routed it to the ESP. Furthermore, because the ESP is known within the refining industry to cause explosions, a potentially safer design could incorporate, for example, explosion relief panels to control where an explosion is vented. This design could help ensure that debris is directed away from hazardous areas, such as the MHF alkylation unit. Alternatively, the use of a wet gas scrubber instead of an ESP may achieve the required emissions control while reducing or eliminating possible ignition sources.
+
+
+1.1 Causal Analysis of Modified HF Alkylation Unit Near Miss
+Following the ESP explosion, a portion of the ESP fell to the ground. A large fragment struck scaffolding59 surrounding the MHF alkylation unit. This scaffolding was located within a few feet of the alkylation unit’s settler tanks61, each containing hydrofluoric acid (HF), water, hydrocarbons, and a chemical additive intended to reduce the amount of HF vaporized during a loss of containment event. Discussed previously, the CSB has issued subpoenas for safety information pertaining to the potential release of HF in the event the tanks were struck by explosion debris, and is pursuing enforcement of the subpoenas in US Federal district court.
+
+	ESP SITING
+The ESP was installed in the FCC unit in 2009, to comply with new environmental regulations. ExxonMobil constructed the ESP adjacent to the FCC unit and in close proximity to other units. For example, the distance from the ESP to the alkylation unit is approximately 80 feet. From the ESP to the Pretreater Unit65 is less than 50 feet. And from the ESP to the Demineralization Unit, located directly south of the ESP, is also less than 50 feet away.
+ExxonMobil constructed the ESP in its chosen location because there were “no feasible alternative ESP sites.” Specifically, given the refinery’s
+
+“limited space and logistical constraints,” other sites were “deemed infeasible.”66 It was found that “the new ESPs must be located adjacent to the existing FCC [unit].”67 Constructing the ESP further away from the FCC “would require additional duct work, more blowers, more support facilities, increased energy use (to accommodate any potential pressure drops), and more extensive construction activities	”68
+
+
+1.1.1 Preventing Consequences of an ESP Explosion
+ExxonMobil addresses process unit siting hazards by conducting risk assessments based upon prescriptive spacing requirements for specific processes and materials. For the ESP siting, however, ExxonMobil only conducted these risk assessments for units within 50 feet of the intended ESP location.
+Because the new ESP was located within 50 feet of the pretreater unit and the power distribution center, ExxonMobil analyzed siting hazards associated with the close proximity. ExxonMobil performed no analysis for the siting of the ESP relative to the alkylation unit, however, because the alkylation unit was more than 50 feet away.
+The ESP was constructed in close proximity to settler tanks containing, among other substances, HF which is a highly toxic chemical. The CSB notes that ESPs have historically caused explosions in the refining industry. Two of these incidents are discussed in Section 5.8.2, but the CSB is aware that additional ESP explosions have occurred.
+
+
+The siting of equipment that is known within the industry to cause explosions ideally should have required a risk assessment. Because the HF settler tanks were more than 50 feet away, however, ExxonMobil did not perform a risk analysis of the ESP proposed location relative to the HF settler tanks.
+Regulatory oversight of unit siting is addressed by Cal/OSHA69 through its PSM standard70 and also by the Environmental Protection Agency through its RMP standard. In addition to the current PSM regulation, Cal/OSHA is seeking to draft improvements to its PSM standard. The current proposed draft requires that companies address in their PHAs ”[f]acility siting, including the placement of processes, equipment, buildings, employee occupancies and work stations, in order to effectively protect employees from process safety hazards.”73,74
+In addition to the Cal/OSHA proposed PSM standard siting requirements, the CSB recommends that ExxonMobil and TORC perform a siting risk analysis of the ExxonMobil and Torrance refinery ESPs, respectively, and implement appropriate safeguards to minimize the consequences of an ESP explosion.
+
+
+1.1 Additional Torrance Refinery Incidents
+Since the February 18, 2015 ESP explosion, the Torrance refinery has experienced multiple incidents under both ExxonMobil and PBF ownership. The incidents75 that have occurred since the ESP explosion include:
+· September 6, 2015—A leak from a clamped pipe in the alkylation unit caused a hydrofluoric acid release. The release did not result in any injuries or off-site consequences, but because the leaking clamp was connected to a vessel containing thousands of pounds of hydrofluoric acid.
+· November 15, 2016—A fire occurred while work was being conducted on a portion of the refinery flare system in the alkylation unit.
+· February 1, 2017—A fire occurred in the Torrance refinery tank farm.
+· February 18, 2017—A pump-related fire occurred in the crude unit.
+In previous investigations, such as the Chevron Richmond refinery investigation76 and the Williams Geismar Olefins plant investigation,77 the CSB recommended the implementation of continual improvement programs to improve process safety culture. The CSB encourages TORC to implement a process safety culture continual improvement program at the Torrance refinery. Such a program may help prevent process safety incidents at the refinery.
+
+1.1 California PSM Reform
+In its Chevron Richmond Refinery interim79 and regulatory80 reports, the CSB issued recommendations to the State of California to enhance its process safety management regulations for petroleum refineries. Since the August 6, 2012 Chevron incident, California has made significant progress in developing new, proposed regulations in its effort to “advance the safety, health and environmental performance of the state’s refinery sector through prevention, emergency preparedness, and community engagement.”81
+
+In July 2016, the California Department of Industrial Relations published a draft of its proposed “Process Safety Management for Petroleum Refineries” regulation. The draft regulation proposes requirements that could help to prevent causal factors that led to the February 2015 ExxonMobil incident.
+
+ 	DAMAGE MECHANISM REVIEW
+The draft regulation proposes the requirement for refineries to conduct Damage Mechanism Reviews (DMRs). The draft regulation states “[t]he DMR for each process shall include […] [i]dentification of all potential damage mechanisms, pursuant to subsection (k)(9).” Section (k)(9) includes “[e]rosion, such as abrasive wear, adhesive wear and fretting” as damage mechanisms to be analyzed. The draft regulation also proposes that “[t]he PHA shall address […] DMR reports that are applicable to the process units ….”83
+A regulatory requirement to perform DMRs and analyze them during PHAs could facilitate refining companies to identify the potential consequences of equipment degradation (e.g. erosion of the ExxonMobil SCSV) and the effects of that degradation during all modes of operation (e.g. Safe Park).
+
+ 	EMPLOYEE PARTICIPATION
+The draft California PSM regulation for refineries proposes new requirements to increase the participation of operations personnel in process safety management. The draft regulation states “the employer shall develop, implement and maintain a written plan to effectively provide for employee participation in all PSM elements” which includes:
+Effective participation by affected operating and maintenance employees and employee representatives, at the earliest possible point, in performing PHAs, DMRs, [Hierarchy of Hazard Controls Analyses], [Management of Change], Management of Organizational Change (MOOCs), Process Safety Culture Assessments (PSCAs), Incident Investigations, [Safeguard Protection Analyses], and [Pre-Startup Safety Reviews].
+
+This proposed regulation change could require refining companies to include additional knowledgeable personnel in changes to safety procedures (e.g. ExxonMobil’s Variance, a type of MOC), which could help include a broader knowledge base when specifying operational safeguards (e.g. riser steam flow rate).
+
+ 	SAFEGUARD PROTECTION ANALYSIS
+The draft regulation also proposes enhanced Safeguard Protection Analyses—tools to assess the effectiveness of safeguards. The draft regulation states:
+For each scenario in the PHA that identifies the potential for a major incident, the employer shall perform an effective written [safeguard protection analysis] to determine the effectiveness of existing individual safeguards, the combined effectiveness of all existing safeguards for each failure scenario in the PHA, the individual and combined effectiveness of safeguards recommended in the PHA, and the individual and combined effectiveness of additional or alternative safeguards that may be needed.
+
+The draft regulation proposes using a tool such as Layer of Protection Analysis (LOPA) to “identify the most protective safeguards.”86
+This proposed regulatory change could help refining companies to focus on determining the quality and effectiveness of critical safeguards (e.g. SCSV catalyst accumulation and steam flow) to prevent a major process safety incident.
+
+ 	CONCLUSIONS
+The CSB views the modernization of United States process safety management regulations as one of the most important chemical safety improvement goals. In previous investigation reports,88 the CSB has issued safety recommendations with the goal of improving process safety management regulations at Federal, state, and local levels, to help prevent catastrophic industrial accidents. The CSB supports the effort to improve process safety management of California refineries. The CSB encourages California to fully implement the recommendations issued as a result of the CSB Chevron Richmond refinery investigation.
+
+
+1.1 Key Lessons
+1. It is essential to identify and define safe operating limits for all modes of operation, and measure process conditions and parameters that can verify the operation of the process relative to those safe operating limits. When a facility relies on operating parameters that only indirectly provide information on critical process parameters, it can lead to the inability to identify when a process is in an unsafe condition.
+
+2. When implementing a deviation from an existing procedure, it is critical that the company conduct a management of change to—among other requirements—verify and authorize the technical basis, the implementation time period, and identify any new or affected hazards and associated mitigation strategies. If the procedure deviation is saved for future use, before implementing the procedure the company should verify that the underlying conditions, activities, and technical assumptions that were the basis for the initial authorization are in place and are still valid.
+
+3. It is essential to schedule and perform maintenance of safety-critical equipment so that the equipment is available to perform its safety-critical function.
+
+4. It is important to consider all modes of operation—including non-routine operations such as unit standby— when performing process hazard analyses. Incident scenarios could be possible during non-routine modes of operation that may not have been considered when analyzing process hazards for normal, continuous operation.
+
+5. Companies should develop operating procedures for all modes of operation—including unit standby—that detail safe operating limits, consequences of deviating from those limits, and specified actions to implement in the event the process deviates outside of its safe operating limits.
+
+6. Robust management of change practices are needed when making changes to procedures. Similar to PHAs, conducting management of change as a multidisciplinary group—composed of individuals with different areas of expertise—can assist in identifying hazards introduced by the procedure change.
+
+7. Control valves typically should not be used as block valves because fluid flow through a partially open control valve can cause damage to the valve that can limit its ability to fully seal.
+
+8. Uncombusted hydrocarbons that are not accompanied by carbon monoxide have the potential to reach FCC unit electrostatic precipitators (ESPs). Refining companies should evaluate their FCC units to determine whether there are sufficient safeguards to prevent an ESP hydrocarbon explosion.
+
+
+
+1.1 Conclusions
+This incident was preventable; weaknesses in the ExxonMobil Torrance refinery’s process safety management program led to a hydrocarbon backflow in the FCC unit and ignition in the ESP. ExxonMobil did not develop a procedure specifically for operating in Safe Park that established safe operating limits and the process conditions that required unit shutdown. In addition, ExxonMobil did not adequately define the function of its safety-critical equipment while in Safe Park, and did not ensure the safety-critical equipment could perform its safety-critical function. ExxonMobil also did not sufficiently perform risk analyses to identify the adequacy of its Safe Park safeguards. Effective safeguards were not established to prevent the incident. At the Chevron Richmond refinery, piping material of construction and relied-upon inspection techniques did not prevent pipe failure from sulfidation corrosion.
+The CSB identified several process safety design weaknesses in the Torrance refinery FCC unit at the time of the February 18, 2015 incident. The piping and equipment between the regenerator and ESP were not configured with instrumentation to detect hydrocarbons (not in the presence of carbon monoxide) flowing toward the ESP. Due to possible temperature limitations of hydrocarbon detection instrumentation, this may be an industry-wide problem. As demonstrated by this incident and previous incidents described in this report, hydrocarbons can and have accumulated and ignited in FCC unit ESPs. The inability to detect hydrocarbons in piping and equipment leading to a potential, unintended ignition source (i.e. an ESP) may be a process safety deficiency.
+In addition, the spent catalyst slide valve could not reliably isolate the hydrocarbon side and air side of the FCC unit from one another. ExxonMobil relied on the SCSV as a safety-critical block valve while in Safe Park, but the SCSV was designed to be a control valve and could not adequately seal. Other refineries may be using SCSVs in this way, which may be beyond their design intent. The CSB calls on refining companies to analyze the causal factors, key lessons, and recommendations from this incident, and look for opportunities to prevent a similar incident at their own facilities.
+
+
+1.1 Recommendations
+
+  EXXONMOBIL CORPORATION
+ 2015-02-I-CA-R1
+A Variance to a safety policy or procedure requires robust analysis of the proposed safeguards prior to its approval and implementation. To ensure the proposed methodology described in the Variance is safe and the proposed safeguards are sufficiently robust, revise corporate and U.S. refinery standard(s) to require that a multidisciplinary team reviews the Variance before it is routed to management for their approval.
+Include knowledgeable personnel on the Variance multidisciplinary team such as:
+(1) the developer of the Variance;
+(2) a technical process representative (e.g. process engineer for the applicable unit);
+(3) an hourly operations representative (e.g. experienced operator in the applicable unit); and
+(4) a health and safety representative.
+The role of the multidisciplinary team is to formally meet to review, discuss, and analyze the proposed Variance, and adjust the safety measures as needed to ensure a safe operation. In the event the expert team members do not come to a consensus that the Variance measures can result in a safe operation, require the proposed work to be routed to a higher management level for final approval.
+
+
+ 2015-02-I-CA-R2
+ExxonMobil did not have an operating procedure for operating the FCC unit in its Safe Park mode of operation. At all ExxonMobil U.S. refineries, develop a program to ensure operating procedures are written and available for each mode of operation—such as unit standby—for all ExxonMobil U.S. refinery FCC units. Specify in the program that ExxonMobil U.S. refineries develop and train operators on any new procedure.
+
+
+ 2015-02-I-CA-R3
+The spent catalyst slide valve, specified as a safety-critical device for normal operation, could not perform its safety-critical function of preventing air and hydrocarbons from mixing while the FCC unit was in its “Safe Park” mode of operation. Also, ExxonMobil Torrance did not operate the FCC unit as if the reactor steam was a safety critical safeguard. Require identification of all safety critical equipment and consequence of failure for each mode of operation and ensure safety critical devices can successfully function when needed. Develop and implement a policy that requires all U.S. ExxonMobil refineries to:
+(1) specify each safety-critical device’s safety function;
+(2) identify the consequences of failure of each safety-critical device;
+
+
+
+
+(3) specify the testing strategy used to verify whether the safety-critical device can function as intended to perform its required safety function; and
+(4) maintain target availability (e.g. safe operating life) for each safety-critical device through inspection and maintenance.
+Require that items (1) through (4) above consider each mode of operation, including but not limited to normal operation, start up, shut down, and “Safe Park” modes of operation.
+
+
+ 2015-02-I-CA-R4
+ExxonMobil extended the maintenance interval of the spent catalyst slide valve and the inspection interval of the pumparound heat exchanger without analyzing whether the extended operation lowered their availability (by operating them beyond their predicted safe operating life) and could result in negative safety consequences. In the event safety-critical equipment is operated beyond its inspection and/or maintenance interval (e.g. extended turnaround interval), require all ExxonMobil U.S. refineries to perform a risk evaluation (e.g. MOC or risk assessment) to identify the safety consequences of the extended operation. Require that each mode of operation, including but not limited to normal operation, start up, shut down, and “Safe Park” modes of operation is evaluated during the risk evaluation.
+
+
+ 2015-02-I-CA-R5
+Electrostatic precipitators create potential ignition sources during normal operation, and have historically caused explosions within the refining industry. At all U.S. ExxonMobil refineries, require a siting risk analysis be performed of all electrostatic precipitators and implement appropriate safeguards to minimize the consequences of an electrostatic precipitator explosion.
+
+
+  TORRANCE REFINING COMPANY
+ 2015-02-I-CA-R6
+Implement protective systems that prevent ignition of flammable gases (including hydrocarbons not in the presence of CO) inside of the electrostatic precipitator, for each mode of operation.
+
+
+ 2015-02-I-CA-R7
+The spent catalyst slide valve, specified as a safety-critical device for normal operation, could not perform its safety-critical function of preventing air and hydrocarbons from mixing while the FCC unit was in its “Safe Park” mode of operation. Require identification of all safety critical equipment and consequence of failure for each mode of operation and ensure safety-critical devices can successfully function when needed. Develop and implement a policy that requires the Torrance refinery to:
+(1) specify each safety-critical device’s safety function;
+(2) identify the consequences of failure of each safety-critical device;
+(3) specify the testing strategy used to verify whether the safety-critical device can function as intended to perform its required safety function; and
+(4) maintain target availability (e.g. safe operating life) for each safety-critical device through inspection and maintenance.
+Require that items (1) through (4) above consider each mode of operation, including but not limited to normal operation, start up, shut down, and “Safe Park” modes of operation.
+
+
+ 2015-02-I-CA-R8
+The Torrance refinery extended the maintenance interval of the spent catalyst slide valve and the inspection interval of the pumparound heat exchanger without analyzing whether the extended operation lowered their availability (by operating them beyond their predicted safe operating life) and could result in negative safety consequences. In the event safety critical equipment is operated beyond its inspection and/or maintenance interval (e.g. extended turnaround interval), require the Torrance refinery to perform a risk evaluation (e.g. MOC or risk assessment) to identify the safety consequences of the extended operation. Require that each mode of operation, including but not limited to normal operation, start up, shut down, and “Safe Park” modes of operation is evaluated during the risk evaluation.
+
+
+ 2015-02-I-CA-R9
+Electrostatic precipitators create potential ignition sources during normal operation, and have historically caused explosions within the refining industry. At the Torrance refinery, require a siting risk analysis be performed of the FCC unit electrostatic precipitator and implement appropriate safeguards to minimize the consequences of an electrostatic precipitator explosion.
+
+
+ American Fuel and Petrochemical Manufacturers
+ 2015-02-I-CA-R10
+Facilitate forum(s)—attended by fluid catalytic cracking unit engineers and other relevant personnel from American Fuel and Petrochemical Manufacturers member companies—to discuss the causal factors of the February 18, 2015 ExxonMobil Torrance refinery incident. Encourage participants to share topics such as design, maintenance, and procedural practices that can prevent a similar incident. Topics of discussion should include:
+(1) Detection of hydrocarbons flowing to an ESP;
+(2) Isolation strategies to prevent mixing of air and hydrocarbons during standby operations;
+(3) Safe operation during unit standby;
+(4) Use of SCSVs as a safeguard during standby operations;
+(5) Use of reactor steam as a safeguard during standby operations;
+(6) Measuring reactor / main column differential pressure during standby operations;
+(7) ESP explosion safeguards; and
+(8) Preventing ESP explosions.
+Create documentation that creates institutional knowledge of the information discussed in the forum(s), and share with the member companies and forum attendees.
+
